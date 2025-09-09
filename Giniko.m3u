@@ -1,0 +1,587 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="207" tvg-name="Yesilcam TV1" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/207.png",Yesilcam TV1
+http://sultanweb.info/GinikoTV.php?ID=207
+#EXTINF:-1 tvg-id="1215" tvg-name="Yesilcam TV2" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1215.png",Yesilcam TV2
+http://sultanweb.info/GinikoTV.php?ID=1215
+#EXTINF:-1 tvg-id="1216" tvg-name="Yesilcam TV3" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1216.png",Yesilcam TV3
+http://sultanweb.info/GinikoTV.php?ID=1216
+#EXTINF:-1 tvg-id="1217" tvg-name="Sinema Turk 1" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1217.jpg",Sinema Turk 1
+http://sultanweb.info/GinikoTV.php?ID=1217
+#EXTINF:-1 tvg-id="1218" tvg-name="Sinema Turk 2" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1218.jpg",Sinema Turk 2
+http://sultanweb.info/GinikoTV.php?ID=1218
+#EXTINF:-1 tvg-id="1219" tvg-name="Sinema Turk 3" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1219.jpg",Sinema Turk 3
+http://sultanweb.info/GinikoTV.php?ID=1219
+#EXTINF:-1 tvg-id="1129" tvg-name="TRT 1" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1129.png",TRT 1
+http://sultanweb.info/GinikoTV.php?ID=1129
+#EXTINF:-1 tvg-id="196" tvg-name="TRT Haber" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/196.png",TRT Haber
+http://sultanweb.info/GinikoTV.php?ID=196
+#EXTINF:-1 tvg-id="49" tvg-name="TRT Muzik" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/49.png",TRT Muzik
+http://sultanweb.info/GinikoTV.php?ID=49
+#EXTINF:-1 tvg-id="50" tvg-name="TRT Cocuk" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/50.png",TRT Cocuk
+http://sultanweb.info/GinikoTV.php?ID=50
+#EXTINF:-1 tvg-id="51" tvg-name="TRT Turk" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/51.png",TRT Turk
+http://sultanweb.info/GinikoTV.php?ID=51
+#EXTINF:-1 tvg-id="688" tvg-name="Diyanet TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/688.png",Diyanet TV
+http://sultanweb.info/GinikoTV.php?ID=688
+#EXTINF:-1 tvg-id="460" tvg-name="TRT World" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/460.jpg",TRT World
+http://sultanweb.info/GinikoTV.php?ID=460
+#EXTINF:-1 tvg-id="684" tvg-name="TRT Arapca" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/684.png",TRT Arapca
+http://sultanweb.info/GinikoTV.php?ID=684
+#EXTINF:-1 tvg-id="686" tvg-name="TRT Kurdi" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/686.jpg",TRT Kurdi
+http://sultanweb.info/GinikoTV.php?ID=686
+#EXTINF:-1 tvg-id="687" tvg-name="TRT Belgesel" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/687.jpg",TRT Belgesel
+http://sultanweb.info/GinikoTV.php?ID=687
+#EXTINF:-1 tvg-id="1131" tvg-name="TRT Spor" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1131.jpg",TRT Spor
+http://sultanweb.info/GinikoTV.php?ID=1131
+#EXTINF:-1 tvg-id="194" tvg-name="TRT Spor" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/194.jpg",TRT Spor
+http://sultanweb.info/GinikoTV.php?ID=194
+#EXTINF:-1 tvg-id="1161" tvg-name="TRT Spor 3" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1161.jpg",TRT Spor 3
+http://sultanweb.info/GinikoTV.php?ID=1161
+#EXTINF:-1 tvg-id="1036" tvg-name="TRT Spor Yildiz" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1036.png",TRT Spor Yildiz
+http://sultanweb.info/GinikoTV.php?ID=1036
+#EXTINF:-1 tvg-id="1138" tvg-name="Kanal D" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1138.jpg",Kanal D
+http://sultanweb.info/GinikoTV.php?ID=1138
+#EXTINF:-1 tvg-id="1124" tvg-name="Star TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1124.jpg",Star TV
+http://sultanweb.info/GinikoTV.php?ID=1124
+#EXTINF:-1 tvg-id="83" tvg-name="Star TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/83.jpg",Star TV
+http://sultanweb.info/GinikoTV.php?ID=83
+#EXTINF:-1 tvg-id="680" tvg-name="EuroStar" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/680.png",EuroStar
+http://sultanweb.info/GinikoTV.php?ID=680
+#EXTINF:-1 tvg-id="98" tvg-name="ATV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/98.jpg",ATV
+http://sultanweb.info/GinikoTV.php?ID=98
+#EXTINF:-1 tvg-id="1125" tvg-name="ATV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1125.jpg",ATV
+http://sultanweb.info/GinikoTV.php?ID=1125
+#EXTINF:-1 tvg-id="699" tvg-name="ATV Avrupa" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/699.jpg",ATV Avrupa
+http://sultanweb.info/GinikoTV.php?ID=699
+#EXTINF:-1 tvg-id="1127" tvg-name="Show TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1127.png",Show TV
+http://sultanweb.info/GinikoTV.php?ID=1127
+#EXTINF:-1 tvg-id="96" tvg-name="Show TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/96.png",Show TV
+http://sultanweb.info/GinikoTV.php?ID=96
+#EXTINF:-1 tvg-id="391" tvg-name="Show Turk" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/391.jpg",Show Turk
+http://sultanweb.info/GinikoTV.php?ID=391
+#EXTINF:-1 tvg-id="195" tvg-name="NOW TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/195.gif",NOW TV
+http://sultanweb.info/GinikoTV.php?ID=195
+#EXTINF:-1 tvg-id="1117" tvg-name="NOW TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1117.gif",NOW TV
+http://sultanweb.info/GinikoTV.php?ID=1117
+#EXTINF:-1 tvg-id="1126" tvg-name="TV8" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1126.png",TV8
+http://sultanweb.info/GinikoTV.php?ID=1126
+#EXTINF:-1 tvg-id="759" tvg-name="TV8.5" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/759.png",TV8.5
+http://sultanweb.info/GinikoTV.php?ID=759
+#EXTINF:-1 tvg-id="1132" tvg-name="TV8 Int" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1132.png",TV8 Int
+http://sultanweb.info/GinikoTV.php?ID=1132
+#EXTINF:-1 tvg-id="1045" tvg-name="TV8 Int" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1045.jpg",TV8 Int
+http://sultanweb.info/GinikoTV.php?ID=1045
+#EXTINF:-1 tvg-id="1130" tvg-name="Beyaz TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1130.png",Beyaz TV
+http://sultanweb.info/GinikoTV.php?ID=1130
+#EXTINF:-1 tvg-id="346" tvg-name="Beyaz TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/346.png",Beyaz TV
+http://sultanweb.info/GinikoTV.php?ID=346
+#EXTINF:-1 tvg-id="199" tvg-name="Kanal 7" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/199.jpg",Kanal 7
+http://sultanweb.info/GinikoTV.php?ID=199
+#EXTINF:-1 tvg-id="200" tvg-name="Ulke TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/200.png",Ulke TV
+http://sultanweb.info/GinikoTV.php?ID=200
+#EXTINF:-1 tvg-id="946" tvg-name="A2" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/946.png",A2
+http://sultanweb.info/GinikoTV.php?ID=946
+#EXTINF:-1 tvg-id="173" tvg-name="teve 2" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/173.png",teve 2
+http://sultanweb.info/GinikoTV.php?ID=173
+#EXTINF:-1 tvg-id="694" tvg-name="Haber Turk" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/694.png",Haber Turk
+http://sultanweb.info/GinikoTV.php?ID=694
+#EXTINF:-1 tvg-id="1137" tvg-name="Haber Turk" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1137.jpg",Haber Turk
+http://sultanweb.info/GinikoTV.php?ID=1137
+#EXTINF:-1 tvg-id="1136" tvg-name="CNN Turk" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1136.jpg",CNN Turk
+http://sultanweb.info/GinikoTV.php?ID=1136
+#EXTINF:-1 tvg-id="97" tvg-name="CNN Turk" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/97.jpg",CNN Turk
+http://sultanweb.info/GinikoTV.php?ID=97
+#EXTINF:-1 tvg-id="1094" tvg-name="Haber Global" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1094.png",Haber Global
+http://sultanweb.info/GinikoTV.php?ID=1094
+#EXTINF:-1 tvg-id="693" tvg-name="360" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/693.jpg",360
+http://sultanweb.info/GinikoTV.php?ID=693
+#EXTINF:-1 tvg-id="1135" tvg-name="Halk TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1135.png",Halk TV
+http://sultanweb.info/GinikoTV.php?ID=1135
+#EXTINF:-1 tvg-id="228" tvg-name="Halk TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/228.jpg",Halk TV
+http://sultanweb.info/GinikoTV.php?ID=228
+#EXTINF:-1 tvg-id="392" tvg-name="Sozcu TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/392.png",Sozcu TV
+http://sultanweb.info/GinikoTV.php?ID=392
+#EXTINF:-1 tvg-id="394" tvg-name="aHBR" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/394.png",aHBR
+http://sultanweb.info/GinikoTV.php?ID=394
+#EXTINF:-1 tvg-id="1134" tvg-name="aHBR" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1134.png",aHBR
+http://sultanweb.info/GinikoTV.php?ID=1134
+#EXTINF:-1 tvg-id="1133" tvg-name="NTV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1133.jpg",NTV
+http://sultanweb.info/GinikoTV.php?ID=1133
+#EXTINF:-1 tvg-id="131" tvg-name="NTV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/131.jpg",NTV
+http://sultanweb.info/GinikoTV.php?ID=131
+#EXTINF:-1 tvg-id="1334" tvg-name="Flash TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1334.png",Flash TV
+http://sultanweb.info/GinikoTV.php?ID=1334
+#EXTINF:-1 tvg-id="784" tvg-name="Bi Kanal" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/784.jpg",Bi Kanal
+http://sultanweb.info/GinikoTV.php?ID=784
+#EXTINF:-1 tvg-id="697" tvg-name="TGRT Haber" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/697.jpg",TGRT Haber
+http://sultanweb.info/GinikoTV.php?ID=697
+#EXTINF:-1 tvg-id="696" tvg-name="TGRT EU" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/696.jpg",TGRT EU
+http://sultanweb.info/GinikoTV.php?ID=696
+#EXTINF:-1 tvg-id="698" tvg-name="TGRT Belgesel" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/698.jpg",TGRT Belgesel
+http://sultanweb.info/GinikoTV.php?ID=698
+#EXTINF:-1 tvg-id="231" tvg-name="Ulusal Kanal" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/231.jpg",Ulusal Kanal
+http://sultanweb.info/GinikoTV.php?ID=231
+#EXTINF:-1 tvg-id="913" tvg-name="Kanal 24" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/913.png",Kanal 24
+http://sultanweb.info/GinikoTV.php?ID=913
+#EXTINF:-1 tvg-id="1005" tvg-name="TV100" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1005.png",TV100
+http://sultanweb.info/GinikoTV.php?ID=1005
+#EXTINF:-1 tvg-id="754" tvg-name="CNBC" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/754.png",CNBC
+http://sultanweb.info/GinikoTV.php?ID=754
+#EXTINF:-1 tvg-id="404" tvg-name="minika COCUK" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/404.png",minika COCUK
+http://sultanweb.info/GinikoTV.php?ID=404
+#EXTINF:-1 tvg-id="405" tvg-name="minika GO" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/405.png",minika GO
+http://sultanweb.info/GinikoTV.php?ID=405
+#EXTINF:-1 tvg-id="944" tvg-name="beIN Sports Haber" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/944.jpg",beIN Sports Haber
+http://sultanweb.info/GinikoTV.php?ID=944
+#EXTINF:-1 tvg-id="1139" tvg-name="A Spor" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1139.png",A Spor
+http://sultanweb.info/GinikoTV.php?ID=1139
+#EXTINF:-1 tvg-id="390" tvg-name="A Spor" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/390.jpg",A Spor
+http://sultanweb.info/GinikoTV.php?ID=390
+#EXTINF:-1 tvg-id="210" tvg-name="Fenerbahce TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/210.png",Fenerbahce TV
+http://sultanweb.info/GinikoTV.php?ID=210
+#EXTINF:-1 tvg-id="1160" tvg-name="Idman TV" group-title="AZERBEYCAN" tvg-logo="https://www.giniko.com/logos/190x110/1160.jpg",Idman TV
+http://sultanweb.info/GinikoTV.php?ID=1160
+#EXTINF:-1 tvg-id="1159" tvg-name="CBC Sport Azerbaijan" group-title="AZERBEYCAN" tvg-logo="https://www.giniko.com/logos/190x110/1159.png",CBC Sport Azerbaijan
+http://sultanweb.info/GinikoTV.php?ID=1159
+#EXTINF:-1 tvg-id="406" tvg-name="CBC TV Azerbaijan" group-title="AZERBEYCAN" tvg-logo="https://www.giniko.com/logos/190x110/406.png",CBC TV Azerbaijan
+http://sultanweb.info/GinikoTV.php?ID=406
+#EXTINF:-1 tvg-id="84" tvg-name="KRAL POP TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/84.png",KRAL POP TV
+http://sultanweb.info/GinikoTV.php?ID=84
+#EXTINF:-1 tvg-id="165" tvg-name="Power TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/165.jpg",Power TV
+http://sultanweb.info/GinikoTV.php?ID=165
+#EXTINF:-1 tvg-id="959" tvg-name="Mavi Karadeniz" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/959.png",Mavi Karadeniz
+http://sultanweb.info/GinikoTV.php?ID=959
+#EXTINF:-1 tvg-id="1152" tvg-name="Kibris Kanal T" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1152.jpg",Kibris Kanal T
+http://sultanweb.info/GinikoTV.php?ID=1152
+#EXTINF:-1 tvg-id="1151" tvg-name="Kibris Ada TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1151.jpg",Kibris Ada TV
+http://sultanweb.info/GinikoTV.php?ID=1151
+#EXTINF:-1 tvg-id="1150" tvg-name="Kibris TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1150.jpg",Kibris TV
+http://sultanweb.info/GinikoTV.php?ID=1150
+#EXTINF:-1 tvg-id="1115" tvg-name="Kibris Genc TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1115.jpg",Kibris Genc TV
+http://sultanweb.info/GinikoTV.php?ID=1115
+#EXTINF:-1 tvg-id="1114" tvg-name="Kibris Kanal Sim" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1114.jpg",Kibris Kanal Sim
+http://sultanweb.info/GinikoTV.php?ID=1114
+#EXTINF:-1 tvg-id="1113" tvg-name="Kibris TV2020" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1113.jpg",Kibris TV2020
+http://sultanweb.info/GinikoTV.php?ID=1113
+#EXTINF:-1 tvg-id="1112" tvg-name="KRT Kultur TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/1112.jpg",KRT Kultur TV
+http://sultanweb.info/GinikoTV.php?ID=1112
+#EXTINF:-1 tvg-id="79" tvg-name="AZ TV" group-title="AZERBEYCAN" tvg-logo="https://www.giniko.com/logos/190x110/79.png",AZ TV
+http://sultanweb.info/GinikoTV.php?ID=79
+#EXTINF:-1 tvg-id="104" tvg-name="KurdSat" group-title="KURDISH" tvg-logo="https://www.giniko.com/logos/190x110/104.jpg",KurdSat
+http://sultanweb.info/GinikoTV.php?ID=104
+#EXTINF:-1 tvg-id="209" tvg-name="Altas Ordu TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/209.png",Altas Ordu TV
+http://sultanweb.info/GinikoTV.php?ID=209
+#EXTINF:-1 tvg-id="247" tvg-name="Dunya TV" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/247.jpg",Dunya TV
+http://sultanweb.info/GinikoTV.php?ID=247
+#EXTINF:-1 tvg-id="412" tvg-name="Sterk TV" group-title="KURDİSH" tvg-logo="https://www.giniko.com/logos/190x110/412.png",Sterk TV
+http://sultanweb.info/GinikoTV.php?ID=412
+#EXTINF:-1 tvg-id="701" tvg-name="ATV AZAD" group-title="AZERBEYCAN" tvg-logo="https://www.giniko.com/logos/190x110/701.jpg",ATV AZAD
+http://sultanweb.info/GinikoTV.php?ID=701
+#EXTINF:-1 tvg-id="761" tvg-name="KurdMax" group-title="KURDİSH" tvg-logo="https://www.giniko.com/logos/190x110/761.jpg",KurdMax
+http://sultanweb.info/GinikoTV.php?ID=761
+#EXTINF:-1 tvg-id="938" tvg-name="4 Turk" group-title="TURKEY" tvg-logo="https://www.giniko.com/logos/190x110/938.png",4 Turk
+http://sultanweb.info/GinikoTV.php?ID=938
+#EXTINF:-1 tvg-id="2" tvg-name="Al Jazeera (English)" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/2.jpg",Al Jazeera (English)
+http://sultanweb.info/GinikoTV.php?ID=2
+#EXTINF:-1 tvg-id="3" tvg-name="Saudi TV 1" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/3.png",Saudi TV 1
+http://sultanweb.info/GinikoTV.php?ID=3
+#EXTINF:-1 tvg-id="4" tvg-name="2M Monde" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/4.jpg",2M Monde
+http://sultanweb.info/GinikoTV.php?ID=4
+#EXTINF:-1 tvg-id="5" tvg-name="Yemen TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/5.png",Yemen TV
+http://sultanweb.info/GinikoTV.php?ID=5
+#EXTINF:-1 tvg-id="6" tvg-name="Tele Congo" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/6.png",Tele Congo
+http://sultanweb.info/GinikoTV.php?ID=6
+#EXTINF:-1 tvg-id="11" tvg-name="Qatar TV 1" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/11.jpg",Qatar TV 1
+http://sultanweb.info/GinikoTV.php?ID=11
+#EXTINF:-1 tvg-id="15" tvg-name="Fashion TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/15.jpeg",Fashion TV
+http://sultanweb.info/GinikoTV.php?ID=15
+#EXTINF:-1 tvg-id="20" tvg-name="RTS1" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/20.png",RTS1
+http://sultanweb.info/GinikoTV.php?ID=20
+#EXTINF:-1 tvg-id="23" tvg-name="3ABN International" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/23.png",3ABN International
+http://sultanweb.info/GinikoTV.php?ID=23
+#EXTINF:-1 tvg-id="26" tvg-name="CNN International" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/26.png",CNN International
+http://sultanweb.info/GinikoTV.php?ID=26
+#EXTINF:-1 tvg-id="27" tvg-name="BBC News" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/27.jpg",BBC News
+http://sultanweb.info/GinikoTV.php?ID=27
+#EXTINF:-1 tvg-id="43" tvg-name="BVN TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/43.png",BVN TV
+http://sultanweb.info/GinikoTV.php?ID=43
+#EXTINF:-1 tvg-id="48" tvg-name="ICC+" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/48.jpg",ICC+
+http://sultanweb.info/GinikoTV.php?ID=48
+#EXTINF:-1 tvg-id="58" tvg-name="The Word Network" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/58.png",The Word Network
+http://sultanweb.info/GinikoTV.php?ID=58
+#EXTINF:-1 tvg-id="63" tvg-name="RTP Internacional (RTPi)" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/63.jpeg",RTP Internacional (RTPi)
+http://sultanweb.info/GinikoTV.php?ID=63
+#EXTINF:-1 tvg-id="80" tvg-name="Abu Dhabi Al Oula" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/80.jpg",Abu Dhabi Al Oula
+http://sultanweb.info/GinikoTV.php?ID=80
+#EXTINF:-1 tvg-id="81" tvg-name="Vox Africa" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/81.jpeg",Vox Africa
+http://sultanweb.info/GinikoTV.php?ID=81
+#EXTINF:-1 tvg-id="93" tvg-name="France 24 (English)" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/93.jpg",France 24 (English)
+http://sultanweb.info/GinikoTV.php?ID=93
+#EXTINF:-1 tvg-id="94" tvg-name="France 24 (French)" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/94.jpg",France 24 (French)
+http://sultanweb.info/GinikoTV.php?ID=94
+#EXTINF:-1 tvg-id="95" tvg-name="Miami TV" group-title="EROTIC" tvg-logo="https://www.giniko.com/logos/190x110/95.png",Miami TV
+http://sultanweb.info/GinikoTV.php?ID=95
+#EXTINF:-1 tvg-id="102" tvg-name="Press TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/102.jpg",Press TV
+http://sultanweb.info/GinikoTV.php?ID=102
+#EXTINF:-1 tvg-id="109" tvg-name="Daystar" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/109.jpeg",Daystar
+http://sultanweb.info/GinikoTV.php?ID=109
+#EXTINF:-1 tvg-id="114" tvg-name="Angel TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/114.png",Angel TV
+http://sultanweb.info/GinikoTV.php?ID=114
+#EXTINF:-1 tvg-id="145" tvg-name="Syria TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/145.png",Syria TV
+http://sultanweb.info/GinikoTV.php?ID=145
+#EXTINF:-1 tvg-id="161" tvg-name="CGTN Documentary" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/161.gif",CGTN Documentary
+http://sultanweb.info/GinikoTV.php?ID=161
+#EXTINF:-1 tvg-id="184" tvg-name="Oman TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/184.jpg",Oman TV
+http://sultanweb.info/GinikoTV.php?ID=184
+#EXTINF:-1 tvg-id="185" tvg-name="Libya Al Wataniya" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/185.gif",Libya Al Wataniya
+http://sultanweb.info/GinikoTV.php?ID=185
+#EXTINF:-1 tvg-id="187" tvg-name="Sudan TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/187.jpg",Sudan TV
+http://sultanweb.info/GinikoTV.php?ID=187
+#EXTINF:-1 tvg-id="189" tvg-name="BBC One" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/189.jpg",BBC One
+http://sultanweb.info/GinikoTV.php?ID=189
+#EXTINF:-1 tvg-id="190" tvg-name="BBC Two" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/190.jpg",BBC Two
+http://sultanweb.info/GinikoTV.php?ID=190
+#EXTINF:-1 tvg-id="191" tvg-name="BBC Three" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/191.jpg",BBC Three
+http://sultanweb.info/GinikoTV.php?ID=191
+#EXTINF:-1 tvg-id="192" tvg-name="TFM" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/192.png",TFM
+http://sultanweb.info/GinikoTV.php?ID=192
+#EXTINF:-1 tvg-id="197" tvg-name="Vietnam Net Giniko" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/197.png",Vietnam Net Giniko
+http://sultanweb.info/GinikoTV.php?ID=197
+#EXTINF:-1 tvg-id="205" tvg-name="BBC Persian" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/205.jpg",BBC Persian
+http://sultanweb.info/GinikoTV.php?ID=205
+#EXTINF:-1 tvg-id="216" tvg-name="BBC World News" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/216.jpg",BBC World News
+http://sultanweb.info/GinikoTV.php?ID=216
+#EXTINF:-1 tvg-id="217" tvg-name="Bloomberg Europe" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/217.jpg",Bloomberg Europe
+http://sultanweb.info/GinikoTV.php?ID=217
+#EXTINF:-1 tvg-id="226" tvg-name="Obieqtivi TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/226.jpg",Obieqtivi TV
+http://sultanweb.info/GinikoTV.php?ID=226
+#EXTINF:-1 tvg-id="264" tvg-name="IRINN" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/264.png",IRINN
+http://sultanweb.info/GinikoTV.php?ID=264
+#EXTINF:-1 tvg-id="266" tvg-name="Armenia TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/266.gif",Armenia TV
+http://sultanweb.info/GinikoTV.php?ID=266
+#EXTINF:-1 tvg-id="267" tvg-name="Royal Time TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/267.jpg",Royal Time TV
+http://sultanweb.info/GinikoTV.php?ID=267
+#EXTINF:-1 tvg-id="269" tvg-name="Abu Dhabi Sport 1" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/269.png",Abu Dhabi Sport 1
+http://sultanweb.info/GinikoTV.php?ID=269
+#EXTINF:-1 tvg-id="270" tvg-name="Dubai TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/270.jpg",Dubai TV
+http://sultanweb.info/GinikoTV.php?ID=270
+#EXTINF:-1 tvg-id="271" tvg-name="Sky News Arabia" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/271.jpg",Sky News Arabia
+http://sultanweb.info/GinikoTV.php?ID=271
+#EXTINF:-1 tvg-id="272" tvg-name="TOLO News" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/272.jpg",TOLO News
+http://sultanweb.info/GinikoTV.php?ID=272
+#EXTINF:-1 tvg-id="277" tvg-name="WATAN E MAA" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/277.png",WATAN E MAA
+http://sultanweb.info/GinikoTV.php?ID=277
+#EXTINF:-1 tvg-id="287" tvg-name="Bible Explorations" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/287.png",Bible Explorations
+http://sultanweb.info/GinikoTV.php?ID=287
+#EXTINF:-1 tvg-id="288" tvg-name="Begum TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/288.png",Begum TV
+http://sultanweb.info/GinikoTV.php?ID=288
+#EXTINF:-1 tvg-id="289" tvg-name="Smile of a Child" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/289.jpg",Smile of a Child
+http://sultanweb.info/GinikoTV.php?ID=289
+#EXTINF:-1 tvg-id="292" tvg-name="Salaam TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/292.jpg",Salaam TV
+http://sultanweb.info/GinikoTV.php?ID=292
+#EXTINF:-1 tvg-id="301" tvg-name="TBN TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/301.png",TBN TV
+http://sultanweb.info/GinikoTV.php?ID=301
+#EXTINF:-1 tvg-id="306" tvg-name="Alkarma TV North America" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/306.png",Alkarma TV North America
+http://sultanweb.info/GinikoTV.php?ID=306
+#EXTINF:-1 tvg-id="307" tvg-name="1TV Afghanistan" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/307.jpg",1TV Afghanistan
+http://sultanweb.info/GinikoTV.php?ID=307
+#EXTINF:-1 tvg-id="309" tvg-name="Ariana TV National" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/309.jpg",Ariana TV National
+http://sultanweb.info/GinikoTV.php?ID=309
+#EXTINF:-1 tvg-id="310" tvg-name="ATN News" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/310.jpg",ATN News
+http://sultanweb.info/GinikoTV.php?ID=310
+#EXTINF:-1 tvg-id="313" tvg-name="iFilm Farsi" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/313.jpg",iFilm Farsi
+http://sultanweb.info/GinikoTV.php?ID=313
+#EXTINF:-1 tvg-id="326" tvg-name="Al Sunnah" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/326.gif",Al Sunnah
+http://sultanweb.info/GinikoTV.php?ID=326
+#EXTINF:-1 tvg-id="327" tvg-name="Al Quran Al Kareem" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/327.gif",Al Quran Al Kareem
+http://sultanweb.info/GinikoTV.php?ID=327
+#EXTINF:-1 tvg-id="331" tvg-name="SBN" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/331.jpg",SBN
+http://sultanweb.info/GinikoTV.php?ID=331
+#EXTINF:-1 tvg-id="333" tvg-name="Enlace TV Latino" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/333.jpg",Enlace TV Latino
+http://sultanweb.info/GinikoTV.php?ID=333
+#EXTINF:-1 tvg-id="349" tvg-name="Zhwandoon TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/349.png",Zhwandoon TV
+http://sultanweb.info/GinikoTV.php?ID=349
+#EXTINF:-1 tvg-id="350" tvg-name="Maah TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/350.jpg",Maah TV
+http://sultanweb.info/GinikoTV.php?ID=350
+#EXTINF:-1 tvg-id="351" tvg-name="Bravo Farsi" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/351.jpg",Bravo Farsi
+http://sultanweb.info/GinikoTV.php?ID=351
+#EXTINF:-1 tvg-id="366" tvg-name="Faza TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/366.jpg",Faza TV
+http://sultanweb.info/GinikoTV.php?ID=366
+#EXTINF:-1 tvg-id="372" tvg-name="IRIB 1" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/372.png",IRIB 1
+http://sultanweb.info/GinikoTV.php?ID=372
+#EXTINF:-1 tvg-id="373" tvg-name="IRIB 2" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/373.png",IRIB 2
+http://sultanweb.info/GinikoTV.php?ID=373
+#EXTINF:-1 tvg-id="374" tvg-name="IRIB 3" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/374.png",IRIB 3
+http://sultanweb.info/GinikoTV.php?ID=374
+#EXTINF:-1 tvg-id="375" tvg-name="IRIB 4" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/375.png",IRIB 4
+http://sultanweb.info/GinikoTV.php?ID=375
+#EXTINF:-1 tvg-id="376" tvg-name="IRIB 5" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/376.jpg",IRIB 5
+http://sultanweb.info/GinikoTV.php?ID=376
+#EXTINF:-1 tvg-id="379" tvg-name="Shamshad TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/379.png",Shamshad TV
+http://sultanweb.info/GinikoTV.php?ID=379
+#EXTINF:-1 tvg-id="380" tvg-name="IRIB Nasim" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/380.png",IRIB Nasim
+http://sultanweb.info/GinikoTV.php?ID=380
+#EXTINF:-1 tvg-id="381" tvg-name="IRIB Amoozesh" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/381.png",IRIB Amoozesh
+http://sultanweb.info/GinikoTV.php?ID=381
+#EXTINF:-1 tvg-id="382" tvg-name="IRIB Ofogh" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/382.png",IRIB Ofogh
+http://sultanweb.info/GinikoTV.php?ID=382
+#EXTINF:-1 tvg-id="386" tvg-name="Al Maghribia" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/386.jpg",Al Maghribia
+http://sultanweb.info/GinikoTV.php?ID=386
+#EXTINF:-1 tvg-id="387" tvg-name="RTA Sports" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/387.jpg",RTA Sports
+http://sultanweb.info/GinikoTV.php?ID=387
+#EXTINF:-1 tvg-id="388" tvg-name="RTA Mili TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/388.png",RTA Mili TV
+http://sultanweb.info/GinikoTV.php?ID=388
+#EXTINF:-1 tvg-id="393" tvg-name="1 HD" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/393.jpg",1 HD
+http://sultanweb.info/GinikoTV.php?ID=393
+#EXTINF:-1 tvg-id="397" tvg-name="IRIB Mostanad" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/397.png",IRIB Mostanad
+http://sultanweb.info/GinikoTV.php?ID=397
+#EXTINF:-1 tvg-id="398" tvg-name="IRIB Pooya" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/398.png",IRIB Pooya
+http://sultanweb.info/GinikoTV.php?ID=398
+#EXTINF:-1 tvg-id="399" tvg-name="IRIB Salamat" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/399.png",IRIB Salamat
+http://sultanweb.info/GinikoTV.php?ID=399
+#EXTINF:-1 tvg-id="400" tvg-name="Universal Somali TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/400.jpg",Universal Somali TV
+http://sultanweb.info/GinikoTV.php?ID=400
+#EXTINF:-1 tvg-id="414" tvg-name="Noor TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/414.jpg",Noor TV
+http://sultanweb.info/GinikoTV.php?ID=414
+#EXTINF:-1 tvg-id="440" tvg-name="Arezo TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/440.png",Arezo TV
+http://sultanweb.info/GinikoTV.php?ID=440
+#EXTINF:-1 tvg-id="449" tvg-name="Fox 5" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/449.jpg",Fox 5
+http://sultanweb.info/GinikoTV.php?ID=449
+#EXTINF:-1 tvg-id="450" tvg-name="NBC" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/450.jpg",NBC
+http://sultanweb.info/GinikoTV.php?ID=450
+#EXTINF:-1 tvg-id="451" tvg-name="ABC" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/451.jpg",ABC
+http://sultanweb.info/GinikoTV.php?ID=451
+#EXTINF:-1 tvg-id="452" tvg-name="CBS" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/452.jpg",CBS
+http://sultanweb.info/GinikoTV.php?ID=452
+#EXTINF:-1 tvg-id="455" tvg-name="Zarin TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/455.gif",Zarin TV
+http://sultanweb.info/GinikoTV.php?ID=455
+#EXTINF:-1 tvg-id="456" tvg-name="Payam Javan TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/456.jpg",Payam Javan TV
+http://sultanweb.info/GinikoTV.php?ID=456
+#EXTINF:-1 tvg-id="462" tvg-name="Somaliland TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/462.jpg",Somaliland TV
+http://sultanweb.info/GinikoTV.php?ID=462
+#EXTINF:-1 tvg-id="478" tvg-name="Al Rasheed TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/478.png",Al Rasheed TV
+http://sultanweb.info/GinikoTV.php?ID=478
+#EXTINF:-1 tvg-id="479" tvg-name="Ten TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/479.gif",Ten TV
+http://sultanweb.info/GinikoTV.php?ID=479
+#EXTINF:-1 tvg-id="480" tvg-name="Aflam TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/480.gif",Aflam TV
+http://sultanweb.info/GinikoTV.php?ID=480
+#EXTINF:-1 tvg-id="481" tvg-name="KSA Sports1" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/481.jpg",KSA Sports1
+http://sultanweb.info/GinikoTV.php?ID=481
+#EXTINF:-1 tvg-id="493" tvg-name="Grand Cinema" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/493.gif",Grand Cinema
+http://sultanweb.info/GinikoTV.php?ID=493
+#EXTINF:-1 tvg-id="494" tvg-name="Shoghakat TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/494.png",Shoghakat TV
+http://sultanweb.info/GinikoTV.php?ID=494
+#EXTINF:-1 tvg-id="497" tvg-name="Kalemeh TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/497.jpg",Kalemeh TV
+http://sultanweb.info/GinikoTV.php?ID=497
+#EXTINF:-1 tvg-id="501" tvg-name="5 HD" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/501.jpg",5 HD
+http://sultanweb.info/GinikoTV.php?ID=501
+#EXTINF:-1 tvg-id="506" tvg-name="Persiana Series" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/506.png",Persiana Series
+http://sultanweb.info/GinikoTV.php?ID=506
+#EXTINF:-1 tvg-id="508" tvg-name="Carthage Plus TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/508.gif",Carthage Plus TV
+http://sultanweb.info/GinikoTV.php?ID=508
+#EXTINF:-1 tvg-id="517" tvg-name="Tamazight TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/517.jpg",Tamazight TV
+http://sultanweb.info/GinikoTV.php?ID=517
+#EXTINF:-1 tvg-id="518" tvg-name="Asia Music Channel - AMC TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/518.jpg",Asia Music Channel - AMC TV
+http://sultanweb.info/GinikoTV.php?ID=518
+#EXTINF:-1 tvg-id="519" tvg-name="Israel Pars TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/519.png",Israel Pars TV
+http://sultanweb.info/GinikoTV.php?ID=519
+#EXTINF:-1 tvg-id="521" tvg-name="TV4 Algeria Tamazight" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/521.gif",TV4 Algeria Tamazight
+http://sultanweb.info/GinikoTV.php?ID=521
+#EXTINF:-1 tvg-id="522" tvg-name="Omid e Iran" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/522.jpg",Omid e Iran
+http://sultanweb.info/GinikoTV.php?ID=522
+#EXTINF:-1 tvg-id="524" tvg-name="AMGA TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/524.gif",AMGA TV
+http://sultanweb.info/GinikoTV.php?ID=524
+#EXTINF:-1 tvg-id="526" tvg-name="PNC Drama" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/526.jpg",PNC Drama
+http://sultanweb.info/GinikoTV.php?ID=526
+#EXTINF:-1 tvg-id="530" tvg-name="TV3 Algeria" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/530.gif",TV3 Algeria
+http://sultanweb.info/GinikoTV.php?ID=530
+#EXTINF:-1 tvg-id="531" tvg-name="4 HD" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/531.jpg",4 HD
+http://sultanweb.info/GinikoTV.php?ID=531
+#EXTINF:-1 tvg-id="533" tvg-name="Zee Plus (MBC) Iraq" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/533.jpg",Zee Plus (MBC) Iraq
+http://sultanweb.info/GinikoTV.php?ID=533
+#EXTINF:-1 tvg-id="534" tvg-name="Persiana Iranian" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/534.jpg",Persiana Iranian
+http://sultanweb.info/GinikoTV.php?ID=534
+#EXTINF:-1 tvg-id="562" tvg-name="VBS Television" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/562.jpg",VBS Television
+http://sultanweb.info/GinikoTV.php?ID=562
+#EXTINF:-1 tvg-id="590" tvg-name="Hannibal TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/590.gif",Hannibal TV
+http://sultanweb.info/GinikoTV.php?ID=590
+#EXTINF:-1 tvg-id="637" tvg-name="Amu TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/637.gif",Amu TV
+http://sultanweb.info/GinikoTV.php?ID=637
+#EXTINF:-1 tvg-id="639" tvg-name="SBC TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/639.jpg",SBC TV
+http://sultanweb.info/GinikoTV.php?ID=639
+#EXTINF:-1 tvg-id="647" tvg-name="TOLO HD" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/647.png",TOLO HD
+http://sultanweb.info/GinikoTV.php?ID=647
+#EXTINF:-1 tvg-id="649" tvg-name="Tamadon" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/649.jpg",Tamadon
+http://sultanweb.info/GinikoTV.php?ID=649
+#EXTINF:-1 tvg-id="651" tvg-name="3 HD" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/651.jpg",3 HD
+http://sultanweb.info/GinikoTV.php?ID=651
+#EXTINF:-1 tvg-id="657" tvg-name="Le Sure Network" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/657.jpg",Le Sure Network
+http://sultanweb.info/GinikoTV.php?ID=657
+#EXTINF:-1 tvg-id="676" tvg-name="Radio Farda" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/676.png",Radio Farda
+http://sultanweb.info/GinikoTV.php?ID=676
+#EXTINF:-1 tvg-id="690" tvg-name="Kentron TV." group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/690.gif",Kentron TV.
+http://sultanweb.info/GinikoTV.php?ID=690
+#EXTINF:-1 tvg-id="737" tvg-name="Tele Liban" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/737.png",Tele Liban
+http://sultanweb.info/GinikoTV.php?ID=737
+#EXTINF:-1 tvg-id="738" tvg-name="Al Nahar" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/738.jpg",Al Nahar
+http://sultanweb.info/GinikoTV.php?ID=738
+#EXTINF:-1 tvg-id="740" tvg-name="Persiana HD" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/740.jpg",Persiana HD
+http://sultanweb.info/GinikoTV.php?ID=740
+#EXTINF:-1 tvg-id="750" tvg-name="Al Nahar Drama" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/750.jpg",Al Nahar Drama
+http://sultanweb.info/GinikoTV.php?ID=750
+#EXTINF:-1 tvg-id="755" tvg-name="ARTN Shant" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/755.gif",ARTN Shant
+http://sultanweb.info/GinikoTV.php?ID=755
+#EXTINF:-1 tvg-id="763" tvg-name="Bollywood" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/763.jpg",Bollywood
+http://sultanweb.info/GinikoTV.php?ID=763
+#EXTINF:-1 tvg-id="765" tvg-name="KSA Sports 2" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/765.jpg",KSA Sports 2
+http://sultanweb.info/GinikoTV.php?ID=765
+#EXTINF:-1 tvg-id="766" tvg-name="IRIB Omid" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/766.jpg",IRIB Omid
+http://sultanweb.info/GinikoTV.php?ID=766
+#EXTINF:-1 tvg-id="773" tvg-name="Al Araby TV 2" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/773.jpg",Al Araby TV 2
+http://sultanweb.info/GinikoTV.php?ID=773
+#EXTINF:-1 tvg-id="776" tvg-name="PanArmenian TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/776.gif",PanArmenian TV
+http://sultanweb.info/GinikoTV.php?ID=776
+#EXTINF:-1 tvg-id="781" tvg-name="USArmenia TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/781.gif",USArmenia TV
+http://sultanweb.info/GinikoTV.php?ID=781
+#EXTINF:-1 tvg-id="783" tvg-name="Kanal Jadid" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/783.jpg",Kanal Jadid
+http://sultanweb.info/GinikoTV.php?ID=783
+#EXTINF:-1 tvg-id="785" tvg-name="IRIB Varzesh - HD" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/785.png",IRIB Varzesh - HD
+http://sultanweb.info/GinikoTV.php?ID=785
+#EXTINF:-1 tvg-id="786" tvg-name="Iran TV Israel" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/786.jpg",Iran TV Israel
+http://sultanweb.info/GinikoTV.php?ID=786
+#EXTINF:-1 tvg-id="787" tvg-name="5 TV Channel" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/787.gif",5 TV Channel
+http://sultanweb.info/GinikoTV.php?ID=787
+#EXTINF:-1 tvg-id="791" tvg-name="FX 1 HD" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/791.jpg",FX 1 HD
+http://sultanweb.info/GinikoTV.php?ID=791
+#EXTINF:-1 tvg-id="846" tvg-name="Simaye Azadi - INTV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/846.png",Simaye Azadi - INTV
+http://sultanweb.info/GinikoTV.php?ID=846
+#EXTINF:-1 tvg-id="847" tvg-name="FX 2 HD" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/847.jpg",FX 2 HD
+http://sultanweb.info/GinikoTV.php?ID=847
+#EXTINF:-1 tvg-id="864" tvg-name="4U TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/864.jpg",4U TV
+http://sultanweb.info/GinikoTV.php?ID=864
+#EXTINF:-1 tvg-id="866" tvg-name="IRIB Namayesh" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/866.png",IRIB Namayesh
+http://sultanweb.info/GinikoTV.php?ID=866
+#EXTINF:-1 tvg-id="871" tvg-name="Tele Maroc" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/871.jpg",Tele Maroc
+http://sultanweb.info/GinikoTV.php?ID=871
+#EXTINF:-1 tvg-id="872" tvg-name="Palestine TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/872.jpg",Palestine TV
+http://sultanweb.info/GinikoTV.php?ID=872
+#EXTINF:-1 tvg-id="874" tvg-name="Dubai One" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/874.jpg",Dubai One
+http://sultanweb.info/GinikoTV.php?ID=874
+#EXTINF:-1 tvg-id="883" tvg-name="IRIB Tamasha" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/883.png",IRIB Tamasha
+http://sultanweb.info/GinikoTV.php?ID=883
+#EXTINF:-1 tvg-id="887" tvg-name="Rotana LBC TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/887.png",Rotana LBC TV
+http://sultanweb.info/GinikoTV.php?ID=887
+#EXTINF:-1 tvg-id="900" tvg-name="IRIB 3 HD" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/900.jpg",IRIB 3 HD
+http://sultanweb.info/GinikoTV.php?ID=900
+#EXTINF:-1 tvg-id="907" tvg-name="Roya TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/907.png",Roya TV
+http://sultanweb.info/GinikoTV.php?ID=907
+#EXTINF:-1 tvg-id="919" tvg-name="Oxir TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/919.gif",Oxir TV
+http://sultanweb.info/GinikoTV.php?ID=919
+#EXTINF:-1 tvg-id="920" tvg-name="Alrai TV Kuwait" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/920.gif",Alrai TV Kuwait
+http://sultanweb.info/GinikoTV.php?ID=920
+#EXTINF:-1 tvg-id="921" tvg-name="Vietoday Television" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/921.png",Vietoday Television
+http://sultanweb.info/GinikoTV.php?ID=921
+#EXTINF:-1 tvg-id="922" tvg-name="Saigon TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/922.png",Saigon TV
+http://sultanweb.info/GinikoTV.php?ID=922
+#EXTINF:-1 tvg-id="923" tvg-name="VSTV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/923.jpg",VSTV
+http://sultanweb.info/GinikoTV.php?ID=923
+#EXTINF:-1 tvg-id="924" tvg-name="ON Film" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/924.jpg",ON Film
+http://sultanweb.info/GinikoTV.php?ID=924
+#EXTINF:-1 tvg-id="925" tvg-name="ON biz" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/925.jpg",ON biz
+http://sultanweb.info/GinikoTV.php?ID=925
+#EXTINF:-1 tvg-id="926" tvg-name="E channel" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/926.jpg",E channel
+http://sultanweb.info/GinikoTV.php?ID=926
+#EXTINF:-1 tvg-id="930" tvg-name="STYLE TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/930.jpg",STYLE TV
+http://sultanweb.info/GinikoTV.php?ID=930
+#EXTINF:-1 tvg-id="932" tvg-name="On Football" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/932.jpg",On Football
+http://sultanweb.info/GinikoTV.php?ID=932
+#EXTINF:-1 tvg-id="937" tvg-name="Pamir TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/937.png",Pamir TV
+http://sultanweb.info/GinikoTV.php?ID=937
+#EXTINF:-1 tvg-id="939" tvg-name="Ronix" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/939.gif",Ronix
+http://sultanweb.info/GinikoTV.php?ID=939
+#EXTINF:-1 tvg-id="940" tvg-name="Persiana Comedy" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/940.jpg",Persiana Comedy
+http://sultanweb.info/GinikoTV.php?ID=940
+#EXTINF:-1 tvg-id="941" tvg-name="Persiana Junior" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/941.jpg",Persiana Junior
+http://sultanweb.info/GinikoTV.php?ID=941
+#EXTINF:-1 tvg-id="948" tvg-name="Deutsche Welle News - EN" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/948.jpg",Deutsche Welle News - EN
+http://sultanweb.info/GinikoTV.php?ID=948
+#EXTINF:-1 tvg-id="950" tvg-name="Sahar Afghanistan" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/950.gif",Sahar Afghanistan
+http://sultanweb.info/GinikoTV.php?ID=950
+#EXTINF:-1 tvg-id="954" tvg-name="Rotana Cinema Egypt" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/954.jpg",Rotana Cinema Egypt
+http://sultanweb.info/GinikoTV.php?ID=954
+#EXTINF:-1 tvg-id="960" tvg-name="CCTV-4" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/960.png",CCTV-4
+http://sultanweb.info/GinikoTV.php?ID=960
+#EXTINF:-1 tvg-id="968" tvg-name="Iran E Farda" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/968.png",Iran E Farda
+http://sultanweb.info/GinikoTV.php?ID=968
+#EXTINF:-1 tvg-id="970" tvg-name="Public Television of Armenia" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/970.png",Public Television of Armenia
+http://sultanweb.info/GinikoTV.php?ID=970
+#EXTINF:-1 tvg-id="971" tvg-name="RTI1" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/971.png",RTI1
+http://sultanweb.info/GinikoTV.php?ID=971
+#EXTINF:-1 tvg-id="974" tvg-name="Children's BBC - CBBC" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/974.png",Children's BBC - CBBC
+http://sultanweb.info/GinikoTV.php?ID=974
+#EXTINF:-1 tvg-id="994" tvg-name="Sat7 Arabic" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/994.png",Sat7 Arabic
+http://sultanweb.info/GinikoTV.php?ID=994
+#EXTINF:-1 tvg-id="995" tvg-name="Sat7 Pars" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/995.png",Sat7 Pars
+http://sultanweb.info/GinikoTV.php?ID=995
+#EXTINF:-1 tvg-id="996" tvg-name="Sat7 Kids" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/996.png",Sat7 Kids
+http://sultanweb.info/GinikoTV.php?ID=996
+#EXTINF:-1 tvg-id="1010" tvg-name="Sahar Urdu" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1010.png",Sahar Urdu
+http://sultanweb.info/GinikoTV.php?ID=1010
+#EXTINF:-1 tvg-id="1011" tvg-name="AVA Family" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1011.gif",AVA Family
+http://sultanweb.info/GinikoTV.php?ID=1011
+#EXTINF:-1 tvg-id="1012" tvg-name="AVA Series" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1012.jpg",AVA Series
+http://sultanweb.info/GinikoTV.php?ID=1012
+#EXTINF:-1 tvg-id="1029" tvg-name="Komala TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1029.jpg",Komala TV
+http://sultanweb.info/GinikoTV.php?ID=1029
+#EXTINF:-1 tvg-id="1030" tvg-name="V Now - Watch Events (DVR)" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1030.png",V Now - Watch Events (DVR)
+http://sultanweb.info/GinikoTV.php?ID=1030
+#EXTINF:-1 tvg-id="1035" tvg-name="Rotana Comedy" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1035.jpg",Rotana Comedy
+http://sultanweb.info/GinikoTV.php?ID=1035
+#EXTINF:-1 tvg-id="1037" tvg-name="Nago TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1037.png",Nago TV
+http://sultanweb.info/GinikoTV.php?ID=1037
+#EXTINF:-1 tvg-id="1040" tvg-name="TIN TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1040.jfif",TIN TV
+http://sultanweb.info/GinikoTV.php?ID=1040
+#EXTINF:-1 tvg-id="1051" tvg-name="Rotana Drama" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1051.jpg",Rotana Drama
+http://sultanweb.info/GinikoTV.php?ID=1051
+#EXTINF:-1 tvg-id="1056" tvg-name="1TV Armenia H1" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1056.gif",1TV Armenia H1
+http://sultanweb.info/GinikoTV.php?ID=1056
+#EXTINF:-1 tvg-id="1075" tvg-name="Abu Dhabi TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1075.png",Abu Dhabi TV
+http://sultanweb.info/GinikoTV.php?ID=1075
+#EXTINF:-1 tvg-id="1092" tvg-name="Rotana Khalija Gulf" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1092.jpg",Rotana Khalija Gulf
+http://sultanweb.info/GinikoTV.php?ID=1092
+#EXTINF:-1 tvg-id="1108" tvg-name="Rotana Cinema KSA" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1108.jpg",Rotana Cinema KSA
+http://sultanweb.info/GinikoTV.php?ID=1108
+#EXTINF:-1 tvg-id="1148" tvg-name="Iran International" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1148.jpg",Iran International
+http://sultanweb.info/GinikoTV.php?ID=1148
+#EXTINF:-1 tvg-id="1154" tvg-name="POSI TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1154.png",POSI TV
+http://sultanweb.info/GinikoTV.php?ID=1154
+#EXTINF:-1 tvg-id="1165" tvg-name="Payam E Afghan TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1165.jpg",Payam E Afghan TV
+http://sultanweb.info/GinikoTV.php?ID=1165
+#EXTINF:-1 tvg-id="1177" tvg-name="PBC Tapesh" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1177.jpg",PBC Tapesh
+http://sultanweb.info/GinikoTV.php?ID=1177
+#EXTINF:-1 tvg-id="1178" tvg-name="iFilm English" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1178.jpg",iFilm English
+http://sultanweb.info/GinikoTV.php?ID=1178
+#EXTINF:-1 tvg-id="1332" tvg-name="HayTV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1332.jpg",HayTV
+http://sultanweb.info/GinikoTV.php?ID=1332
+#EXTINF:-1 tvg-id="1333" tvg-name="Vcab7" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1333.jpg",Vcab7
+http://sultanweb.info/GinikoTV.php?ID=1333
+#EXTINF:-1 tvg-id="1336" tvg-name="Afghanistan International" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1336.jpg",Afghanistan International
+http://sultanweb.info/GinikoTV.php?ID=1336
+#EXTINF:-1 tvg-id="1337" tvg-name="VOA Pashto TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1337.jpg",VOA Pashto TV
+http://sultanweb.info/GinikoTV.php?ID=1337
+#EXTINF:-1 tvg-id="1339" tvg-name="Afghan Time TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1339.png",Afghan Time TV
+http://sultanweb.info/GinikoTV.php?ID=1339
+#EXTINF:-1 tvg-id="1340" tvg-name="Afghan Nobel Movies" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1340.png",Afghan Nobel Movies
+http://sultanweb.info/GinikoTV.php?ID=1340
+#EXTINF:-1 tvg-id="1341" tvg-name="Afghan Nobel TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1341.png",Afghan Nobel TV
+http://sultanweb.info/GinikoTV.php?ID=1341
+#EXTINF:-1 tvg-id="1342" tvg-name="Bahar TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1342.png",Bahar TV
+http://sultanweb.info/GinikoTV.php?ID=1342
+#EXTINF:-1 tvg-id="1343" tvg-name="Iman TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1343.png",Iman TV
+http://sultanweb.info/GinikoTV.php?ID=1343
+#EXTINF:-1 tvg-id="1345" tvg-name="Sada E Haq TV" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1345.png",Sada E Haq TV
+http://sultanweb.info/GinikoTV.php?ID=1345
+#EXTINF:-1 tvg-id="1346" tvg-name="Ariana TV USA" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1346.jpg",Ariana TV USA
+http://sultanweb.info/GinikoTV.php?ID=1346
+#EXTINF:-1 tvg-id="1347" tvg-name="Afghan Theatre" group-title="Giniko" tvg-logo="https://www.giniko.com/logos/190x110/1347.jpg",Afghan Theatre
+http://sultanweb.info/GinikoTV.php?ID=1347
