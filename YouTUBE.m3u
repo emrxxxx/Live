@@ -1,4 +1,3 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/MuazT/EPG-Guide/master/TurkishEPG.xml"
 #EXTINF:-1 tvg-id="CNNTURK" tvg-name="CNN TÜRK" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/H6Fh64z_Vb9AYevqCPwgeyRAyd4mye6fqU2HN5Jj1RWtrtK5lbU3B2Nkxc_nJfpN_WpI5_flfBk",CNN TÜRK
 http://sultanweb.info/YouTube.php?ID=UCV6zcRug6Hqp1UX_FdyUeBg
 #EXTINF:-1 tvg-id="HABERTURK" tvg-name="HABERTURK" group-title="YouTUBE" tvg-logo="https://yt3.ggpht.com/sgLqVc2LbmFb-r8OMY3Ib5o1MYjFSdY3KHSPYQ6EIjBNYYkgtljQbxEkeQG2zNeNPloQGCJ5",HABERTURK
