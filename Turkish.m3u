@@ -4,16 +4,16 @@
 http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/star-tv-canli-hd/
 #EXTINF:-1 tvg-name="KANAL 7 HD" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/kanal-7-izle.png",KANAL 7 HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/kanal7-canli/2/
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/kanal7-canli/
 #EXTINF:-1 tvg-name="SHOW TV HD" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/show-tv-izle.png",SHOW TV HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/showtv-canli/2/
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/showtv-canli/
 #EXTINF:-1 tvg-name="BEYAZ TV HD" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/beyaz-tv-izle.png",BEYAZ TV HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/beyaz-tv-canli/2/
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/beyaz-tv-canli/
 #EXTINF:-1 tvg-name="TRT HABER" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/trt-haber-canli-izle-1.png",TRT HABER
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/trt-haber-canli/2/
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/trt-haber-canli/
 #EXTINF:-1 tvg-name="HALK TV HD" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/halk-tv-izle.png",HALK TV HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/halk-tv-canli-izle/
@@ -22,7 +22,7 @@ http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/halk-tv-c
 http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/sozcu-tv-canli-izle/
 #EXTINF:-1 tvg-name="HABERTÜRK" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/haberturk-izle.png",HABERTÜRK
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/haberturk-canli/2/
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/haberturk-canli/
 #EXTINF:-1 tvg-name="TGRT HABER" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/tgrt-haber-tv-izle.png",TGRT HABER
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/tgrt-haber-canli/2/
@@ -31,7 +31,7 @@ http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/tgrt-habe
 http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/bi-kanal/
 #EXTINF:-1 tvg-name="ÜLKE TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/ulke-tv-izle.png",ÜLKE TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/ulke-tv-canli/2/
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/ulke-tv-canli/
 #EXTINF:-1 tvg-name="360 TV HD" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/360-tv-izle.png",360 TV HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/360-tv-canli-hd/
@@ -52,13 +52,13 @@ http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/kanal-24-
 http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/ekol-tv/
 #EXTINF:-1 tvg-name="TELE1" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/tele-1-izle.png",TELE1
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/tele1-canli/2/
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/tele1-canli/
 #EXTINF:-1 tvg-name="KRT TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/krt-tv-canli.png",KRT TV
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/krt-tv-canli/2/
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/krt-tv-canli/
 #EXTINF:-1 tvg-name="A PARA" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/a-para.png",A PARA
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/a-para-canli/2/
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/a-para-canli/
 #EXTINF:-1 tvg-name="TRT SPOR HD" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/trt-spor-canli-hd.png",TRT SPOR HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/trt-spor/
@@ -79,7 +79,7 @@ http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/trt-belge
 http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/tvnet-canli-izle/
 #EXTINF:-1 tvg-name="NTV HD" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/ntv-hd-izle.png",NTV HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/ntv-canli/2/
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/ntv-canli/
 #EXTINF:-1 tvg-name="FLASH HABER" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/flash-tv-canli.png",FLASH HABER
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/flash-tv-canli-izle/
@@ -125,6 +125,141 @@ http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/minika-go
 #EXTINF:-1 tvg-name="TİVİBU SPOR" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/tivibu-spor-canli.png",TİVİBU SPOR
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/tivibu-spor-canli-izle-hd/
+#EXTINF:-1 tvg-name="CNN TÜRK" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/cnnturk.png",CNN TÜRK
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/cnn-turk-canli-hd/
+#EXTINF:-1 tvg-name="D MAX" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/d-max-canli.png",D MAX
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/d-max-canli/2/
+#EXTINF:-1 tvg-name="SUPER RTL" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/super-rtl-live-stream-tv.png",SUPER RTL
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/super-rtl-live-stream-tv/
+#EXTINF:-1 tvg-name="TLC TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/tlc-tv.png",TLC TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/tlc-tv-canli/2/
+#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/cartoon-network-izle.png",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/cartoon-network-canli-izle/
+#EXTINF:-1 tvg-name="AZAD TV AZ" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/atv-azad-tv-izle.png",AZAD TV AZ
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/azad-tv-azeri-izle-canli-1/
+#EXTINF:-1 tvg-name="ARB TV AZ" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/arb-az-canli.png",ARB TV AZ
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/arb-az-canli/
+#EXTINF:-1 tvg-name="XEZER TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/xezer-tv-izle.png",XEZER TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/xezer-tv-canli-izle/
+#EXTINF:-1 tvg-name="AZ TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/az-tv-izle-azerbaycan-tv-izle.png",AZ TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/az-tv-azerbaycan-tv-izle/
+#EXTINF:-1 tvg-name="İCTİMAİ TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/ictimai-tv-canli-izle.png",İCTİMAİ TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/ictimai-tv-canli-izle/
+#EXTINF:-1 tvg-name="İDMAN TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/idman-tv-canli-izle-hd.png",İDMAN TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/idman-tv/
+#EXTINF:-1 tvg-name="CBC SPORT" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/cbc-sport-az-tv-canli.png",CBC SPORT
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/cbc-sport/
+#EXTINF:-1 tvg-name="ARB 24" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/arb-24-az.png",ARB 24
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/arb-24-az-canli/
+#EXTINF:-1 tvg-name="SPACE TV AZ" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/space-tv-az-izle.png",SPACE TV AZ
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/space-tv-az-canli-izle/
+#EXTINF:-1 tvg-name="MEDENİYET AZ TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/medeniyet-az-tv.png",MEDENİYET AZ TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/medeniyet-tv-az/
+#EXTINF:-1 tvg-name="REAL AZ" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/real-tv-az.png",REAL AZ
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/real-tv-az/
+#EXTINF:-1 tvg-name="KANAL S AZ" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/kanal-s-az.png",KANAL S AZ
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/kanal-s-az/
+#EXTINF:-1 tvg-name="CBC AZ TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/cbc-az-tv-cenub-tv.png",CBC AZ TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/cbc-az-tv-cenub-tv-canli/
+#EXTINF:-1 tvg-name="ARB GÜNƏŞ" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/arb-gunes.png",ARB GÜNƏŞ
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/arb-gunes/
+#EXTINF:-1 tvg-name="ARB KEPEZ" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/arb-kepez-az.png",ARB KEPEZ
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/arb-kepez-az/
+#EXTINF:-1 tvg-name="TMB TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/tmb-tv-izle.png",TMB TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/tmb-tv-canli/
+#EXTINF:-1 tvg-name="CAN AZERBAYCAN TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/can-azerbaycan-tv.png",CAN AZERBAYCAN TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/can-azerbaycan-tv/
+#EXTINF:-1 tvg-name="İNTER AZ" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/inter-az.png",İNTER AZ
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/inter-az-canli/
+#EXTINF:-1 tvg-name="TÜRKEL AZ TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/turkel-az-tv.png",TÜRKEL AZ TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/turkel-az-tv-canli/
+#EXTINF:-1 tvg-name="LİDER TV AZ" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/lider-tv-az-izle.png",LİDER TV AZ
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/lider-tv-az-canli-izle/
+#EXTINF:-1 tvg-name="GÜNAZ TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/gunaz-tv-az.png",GÜNAZ TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/gunaz-tv-az/
+#EXTINF:-1 tvg-name="DALGA TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/dalga-tv-canli.png",DALGA TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/dalga-tv-canli-izle-1/
+#EXTINF:-1 tvg-name="AZ STAR TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/az-star-tv.png",AZ STAR TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/az-star-tv-canli/
+#EXTINF:-1 tvg-name="ARB ULDUZ" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/arb-ulduz-az.png",ARB ULDUZ
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/arb-ulduz-az/
+#EXTINF:-1 tvg-name="QAFQAZ TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/qafqaz-tv-az.png",QAFQAZ TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/qafqaz-tv-az/
+#EXTINF:-1 tvg-name="NAXCİVAN TV AZ" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/naxcivan-tv.png",NAXCİVAN TV AZ
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/naxcivan-tv-izle/
+#EXTINF:-1 tvg-name="TRT AVAZ" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/trt-avaz-izle.png",TRT AVAZ
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/trt-avaz-canli-izle-1/
+#EXTINF:-1 tvg-name="MUZ TV AZ" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/muz-tv-az.png",MUZ TV AZ
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/muz-tv-az/
+#EXTINF:-1 tvg-name="ÜMÜD TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/umud-tv-azerbaycan.png",ÜMÜD TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/umud-tv-azerbaycan/
+#EXTINF:-1 tvg-name="DUNYA TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/dunya-tv-az.png",DUNYA TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/dunya-tv-az/
+#EXTINF:-1 tvg-name="TURAN TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/turan-tv-az.png",TURAN TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/turan-tv-az/
+#EXTINF:-1 tvg-name="LİVE TV AZ" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/live-tv-az-canli.png",LİVE TV AZ
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/live-tv-az-canli/
+#EXTINF:-1 tvg-name="AZ NEWS TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/az-news-tv-canli.png",AZ NEWS TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/az-news-tv-canli/
+#EXTINF:-1 tvg-name="SES TV AZ" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/ses-tv-az-canli.png",SES TV AZ
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/ses-tv-az-canli/
+#EXTINF:-1 tvg-name="MOONSTAR TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/moonstar-tv-canli-izle.png",MOONSTAR TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/moonstar-tv-canli-izle/
+#EXTINF:-1 tvg-name="APA TV AZ" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/apa-tv-az-canli.png",APA TV AZ
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/apa-tv-az-canli/
+#EXTINF:-1 tvg-name="BAKÜ TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/baku-tv-az-canli.png",BAKÜ TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/baku-tv-az-canli/
+#EXTINF:-1 tvg-name="AZGEO TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/azgeo-tv-canli.jpg",AZGEO TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/azgeo-tv-canli/
+#EXTINF:-1 tvg-name="EL TV AZ" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/el-tv-az-canli.png",EL TV AZ
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/el-tv-az-canli/
+#EXTINF:-1 tvg-name="QEBELE TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/qebele-tv-az.png",QEBELE TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/qebele-tv-az/
 #EXTINF:-1 tvg-name="PRO 7" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/pro-7-live-stream-tv.png",PRO 7
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/pro-7-live-stream-tv/
@@ -152,18 +287,186 @@ http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/3-sat-liv
 #EXTINF:-1 tvg-name="ARD" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/ard-live-stream-tv.png",ARD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/ard-live-stream-tv/
-#EXTINF:-1 tvg-name="CNN TÜRK" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/cnnturk.png",CNN TÜRK
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/cnn-turk-canli-hd/
-#EXTINF:-1 tvg-name="D MAX" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/d-max-canli.png",D MAX
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/d-max-canli/2/
 #EXTINF:-1 tvg-name="SUPER RTL" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/super-rtl-live-stream-tv.png",SUPER RTL
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/super-rtl-live-stream-tv/
-#EXTINF:-1 tvg-name="TLC TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/tlc-tv.png",TLC TV
+#EXTINF:-1 tvg-name="PROSIEBEN 7 MAXX" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/prosieben-7-maxx.png",PROSIEBEN 7 MAXX
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/tlc-tv-canli/2/
-#EXTINF:-1 tvg-name="CARTOON NETWORK" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/cartoon-network-izle.png",CARTOON NETWORK
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/prosieben-7-maxx/
+#EXTINF:-1 tvg-name="SAT.1 GOLD" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/sat-1-gold.png",SAT.1 GOLD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/cartoon-network-canli-izle/
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/sat-1-gold/
+#EXTINF:-1 tvg-name="DEUTSCHE WELLE" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/DEUTSCHE-WELLE.png",DEUTSCHE WELLE
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/deutsche-welle-tv/
+#EXTINF:-1 tvg-name="KABEL EİNS DOKU" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/kabel-eins-doku.png",KABEL EİNS DOKU
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/kabel-eins-doku/
+#EXTINF:-1 tvg-name="DMAX GERMANY" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/dmax-live-stream-tv.png",DMAX GERMANY
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/dmax-live-stream-tv/
+#EXTINF:-1 tvg-name="RTL 2" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/rtl-2-live-stream-tv.png",RTL 2
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/rtl-2-live-stream-tv/
+#EXTINF:-1 tvg-name="DE TELE 5" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/tele-5-germany-live.png",DE TELE 5
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/tele-5-germany-live/
+#EXTINF:-1 tvg-name="ZDF NEO" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/zdf-neo.png",ZDF NEO
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/zdf-neo/
+#EXTINF:-1 tvg-name="ZDF INFO" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/zdf-info.png",ZDF INFO
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/zdf-info/
+#EXTINF:-1 tvg-name="EURONEWS DE" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/euronews-de-live-stream-tv.png",EURONEWS DE
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/euronews-de-live-stream-tv/
+#EXTINF:-1 tvg-name="RTL NİTRO" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/rtl-nitro-live-stream-tv.png",RTL NİTRO
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/rtl-nitro-live-stream-tv/
+#EXTINF:-1 tvg-name="ORF 1" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/orf-1-live-stream-tv.png",ORF 1
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/orf-1-live-stream-tv/
+#EXTINF:-1 tvg-name="ORF 2" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/orf-2-live-stream-tv.png",ORF 2
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/orf-2-live-stream-tv/
+#EXTINF:-1 tvg-name="N-TV DEUTSCH" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/n-tv-live-stream.png",N-TV DEUTSCH
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/n-tv-live-stream-tv/
+#EXTINF:-1 tvg-name="KİKA" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/kika-live-stream-tv.png",KİKA
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/kika-live-stream-tv/
+#EXTINF:-1 tvg-name="SWR" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/swr-live-stream.png",SWR
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/swr-tv-live-stream/
+#EXTINF:-1 tvg-name="PHOENIX HD" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/phoenix-hd.png",PHOENIX HD
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/phoenix-hd/
+#EXTINF:-1 tvg-name="Welt" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/n-24.png",Welt
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/welt-live/
+#EXTINF:-1 tvg-name="ONE HD" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/one-hd.png",ONE HD
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/one-hd/
+#EXTINF:-1 tvg-name="NDR" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/ndr-live-stream.png",NDR
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/ndr-live-stream-tv/
+#EXTINF:-1 tvg-name="RBB" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/rbb-live-stream.png",RBB
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/rbb-live-stream-tv/
+#EXTINF:-1 tvg-name="MDR" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/mdr-live-stream.png",MDR
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/mdr-live-stream-tv/
+#EXTINF:-1 tvg-name="SRF 1" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/srf-1-live-stream.png",SRF 1
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/srf-1-live-stream-tv/
+#EXTINF:-1 tvg-name="SRF 2" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/srf-2-zwei.png",SRF 2
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/srf-2-zwei/
+#EXTINF:-1 tvg-name="TELE 5" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/tele5-izle.png",TELE 5
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/tele5-canli-izle/
+#EXTINF:-1 tvg-name="ARTE" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/arte-fr-live.png",ARTE
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/arte-fr-live/
+#EXTINF:-1 tvg-name="RTL PLUS" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/rtl-plus-live-stream.jpg",RTL PLUS
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/rtl-plus-live-stream/
+#EXTINF:-1 tvg-name="DE DİSNEY CHANNEL" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/disney-channel-germany.png",DE DİSNEY CHANNEL
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/disney-channel-germany/
+#EXTINF:-1 tvg-name="DE TLC" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/tlc-tv-germany.png",DE TLC
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/tlc-tv-germany/
+#EXTINF:-1 tvg-name="NİCKELODEON" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/nickelodeon-liv-stream.png",NİCKELODEON
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/nickelodeon-liv-stream/
+#EXTINF:-1 tvg-name="COMEDY CENTRAL" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/comedy-central-live.png",COMEDY CENTRAL
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/comedy-central-live/
+#EXTINF:-1 tvg-name="SERVUS TV" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/servus-tv-live-stream.png",SERVUS TV
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/servus-tv-live-stream/
+#EXTINF:-1 tvg-name="RTL GOLD" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/rtl-gold-live-stream.png",RTL GOLD
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/rtl-gold-live-stream/
+#EXTINF:-1 tvg-name="RTL KLUP" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/rtl-klup-live-stream.png",RTL KLUP
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/rtl-klup-live-stream/
+#EXTINF:-1 tvg-name="3 PLUS" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/3-plus-switzerland.png",3 PLUS
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/3-plus-switzerland/
+#EXTINF:-1 tvg-name="WDR FERNSEHEN" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/wdr-fernsehen.png",WDR FERNSEHEN
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/wdr-fernsehen/
+#EXTINF:-1 tvg-name="FRANCE 24" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/france-24.png",FRANCE 24
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/france-24/
+#EXTINF:-1 tvg-name="TF 1 HD" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/tf-1-hd.png",TF 1 HD
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/tf-1-hd/
+#EXTINF:-1 tvg-name="FRANCE 2" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/france-2.png",FRANCE 2
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/france-2/
+#EXTINF:-1 tvg-name="FRANCE 3" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/france-3.png",FRANCE 3
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/france-3/
+#EXTINF:-1 tvg-name="FRANCE 4" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/france-4.png",FRANCE 4
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/france-4/
+#EXTINF:-1 tvg-name="FRANCE 5" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/france-5.png",FRANCE 5
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/france-5/
+#EXTINF:-1 tvg-name="GULLİ TOON" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/gulli-toon-fr.png",GULLİ TOON
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/gulli-toon-fr/
+#EXTINF:-1 tvg-name="TF 1 SERİES FİLM" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/tf-1-series-film.png",TF 1 SERİES FİLM
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/tf-1-series-film/
+#EXTINF:-1 tvg-name="TMC FR" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/tmc-fr.png",TMC FR
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/tmc-fr/
+#EXTINF:-1 tvg-name="TFX FR" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/tfx-fr.png",TFX FR
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/tfx-fr/
+#EXTINF:-1 tvg-name="M6 FR" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/m6-fr.png",M6 FR
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/m6-fr/
+#EXTINF:-1 tvg-name="6 TER FR" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/6-ter-fr.png",6 TER FR
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/6-ter-fr/
+#EXTINF:-1 tvg-name="W9 FR" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/w9-fr.png",W9 FR
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/w9-fr/
+#EXTINF:-1 tvg-name="LA TELE FR" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/la-tele-fr.png",LA TELE FR
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/la-tele-fr/
+#EXTINF:-1 tvg-name="FRANCE Ô" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/france-o-fr.png",FRANCE Ô
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/france-o-fr/
+#EXTINF:-1 tvg-name="BFM TV FR" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/bfm-tv-fr.png",BFM TV FR
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/bfm-tv-fr/
+#EXTINF:-1 tvg-name="C STAR FR" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/c-star-fr.png",C STAR FR
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/c-star-fr/
+#EXTINF:-1 tvg-name="CHERİE 25 FR" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/cherie-35-tv-fr.png",CHERİE 25 FR
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/cherie-35-tv-fr/
+#EXTINF:-1 tvg-name="C8 DİRECT" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/c8-direct-fr.png",C8 DİRECT
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/c8-direct-fr/
+#EXTINF:-1 tvg-name="RMC DECOUVERTE" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/rmc-decouverte.png",RMC DECOUVERTE
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/rmc-decouverte/
+#EXTINF:-1 tvg-name="NRJ 12 FR" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/nrj-12-fr.png",NRJ 12 FR
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/nrj-12-fr/
+#EXTINF:-1 tvg-name="C NEWS" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/c-news-direct-france.png",C NEWS
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/c-news-direct-france/
+#EXTINF:-1 tvg-name="FRANCE LCI" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/france-lci-direct.png",FRANCE LCI
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/france-lci-direct/
+#EXTINF:-1 tvg-name="TV5 MONDE İNFO" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/tv-5-monde-info-direct.png",TV5 MONDE İNFO
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/tv-5-monde-info-direct/
