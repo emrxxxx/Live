@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="158" tvg-logo="https://www.freshot.live/upload/source/bein_sports1-logo.png" group-title="Turkish",beIN SPORTS HD1
+http://freshot.karamehmet.workers.dev/?ID=beINSPORTS1TR
+#EXTINF:-1 tvg-id="159" tvg-logo="https://www.freshot.live/upload/source/bein-sports-2-logo.png" group-title="Turkish",beIN SPORTS HD2
+http://freshot.karamehmet.workers.dev/?ID=beINSPORTS2TR
+#EXTINF:-1 tvg-id="160" tvg-logo="https://www.freshot.live/upload/source/bein-sports_3-logo.png" group-title="Turkish",beIN SPORTS HD3
+http://freshot.karamehmet.workers.dev/?ID=beINSPORTS3TR
+#EXTINF:-1 tvg-id="161" tvg-logo="https://www.freshot.live/upload/source/bein-sports-4-logo.png" group-title="Turkish",beIN SPORTS HD4
+http://freshot.karamehmet.workers.dev/?ID=BEINSPORT4TR
+#EXTINF:-1 tvg-id="162" tvg-logo="https://www.freshot.live/upload/source/beINSPORTS5-logo.png" group-title="Turkish",beIN SPORTS HD5
+http://freshot.karamehmet.workers.dev/?ID=beINSPORTS5TR
+#EXTINF:-1 tvg-id="710" tvg-logo="https://www.freshot.live/upload/source/Tivibu-SPOR-logo.png" group-title="Turkish",TIVIBUSPOR 1
+http://freshot.karamehmet.workers.dev/?ID=TivibuSPOR
+#EXTINF:-1 tvg-id="711" tvg-logo="https://www.freshot.live/upload/source/Tivibu-SPOR-2-logo.png" group-title="Turkish",TIVIBUSPOR 2
+http://freshot.karamehmet.workers.dev/?ID=TivibuSPOR2
+#EXTINF:-1 tvg-id="712" tvg-logo="https://www.freshot.live/upload/source/Tivibu-SPOR-3-logo.png" group-title="Turkish",TIVIBUSPOR 3
+http://freshot.karamehmet.workers.dev/?ID=TivibuSPOR3
+#EXTINF:-1 tvg-id="790" tvg-logo="https://www.freshot.live/upload/source/Eurosport_1_logo.png" group-title="Turkish",EUROSPORT 1
+http://freshot.karamehmet.workers.dev/?ID=Euro1TR
+#EXTINF:-1 tvg-id="791" tvg-logo="https://www.freshot.live/upload/source/Eurosport_2_logo.png" group-title="Turkish",EUROSPORT 2
+http://freshot.karamehmet.workers.dev/?ID=Euro2TR
+#EXTINF:-1 tvg-id="713" tvg-logo="https://www.freshot.live/upload/source/sports-tv-turkey-logo.png" group-title="Turkish",SPORTS TV
+http://freshot.karamehmet.workers.dev/?ID=SportsTV
+#EXTINF:-1 tvg-id="792" tvg-logo="https://www.freshot.live/upload/source/A-Spor-logo.png" group-title="Turkish",A Spor
+http://freshot.karamehmet.workers.dev/?ID=ASPORTR
+#EXTINF:-1 tvg-id="707" tvg-logo="https://www.freshot.live/upload/source/TRT_SPOR-logo.png" group-title="Turkish",TRT SPOR
+http://freshot.karamehmet.workers.dev/?ID=TRTSPOR
+#EXTINF:-1 tvg-id="707" tvg-logo="https://www.freshot.live/upload/source/TRT_SPOR-logo.png" group-title="Turkish",TRT Spor Yıldız
+http://freshot.karamehmet.workers.dev/?ID=TRTSPORY
+#EXTINF:-1 tvg-id="794" tvg-logo="https://www.freshot.live/upload/source/Eurosport_2_logo.png" group-title="EX-YU",EUROSPORT 2 RS
+http://freshot.karamehmet.workers.dev/?ID=EUROSPORT2RS
+#EXTINF:-1 tvg-id="605" tvg-logo="https://www.freshot.live/upload/source/Eurosport_1_logo.png" group-title="EX-YU",EUROSPORT 1 RS
+http://freshot.karamehmet.workers.dev/?ID=EUROSPORT1RS
+#EXTINF:-1 tvg-id="107" tvg-logo="https://www.freshot.live/upload/source/SportKlub-4-logo.png" group-title="EX-YU",SportKlub 4 RS
+http://freshot.karamehmet.workers.dev/?ID=SPORTKLUB4RS
+#EXTINF:-1 tvg-id="106" tvg-logo="https://www.freshot.live/upload/source/SportKlub-3-logo.png" group-title="EX-YU",SportKlub 3 RS
+http://freshot.karamehmet.workers.dev/?ID=SPORTKLUB3RS
+#EXTINF:-1 tvg-id="105" tvg-logo="https://www.freshot.live/upload/source/SportKlub-2-logo.png" group-title="EX-YU",SportKlub 2 RS
+http://freshot.karamehmet.workers.dev/?ID=SPORTKLUB2RS
+#EXTINF:-1 tvg-id="105" tvg-logo="https://www.freshot.live/upload/source/SportKlub-1-logo.png" group-title="EX-YU",SportKlub 1 RS
+http://freshot.karamehmet.workers.dev/?ID=SPORTKLUB1RS
