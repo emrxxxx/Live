@@ -169,7 +169,7 @@ http://sultanweb.info/LiveRDS.php?ID=disney-junior
 http://sultanweb.info/LiveRDS.php?ID=tralala
 #EXTINF:-1 tvg-id="1553" tvg-name="Discovery Channel HD" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/DISCOVERY-CHANNEL.png",Discovery Channel HD
 http://sultanweb.info/LiveRDS.php?ID=discovery-channel
-#EXTINF:-1 tvg-id="1899" tvg-name="Crime &#038; Investigation" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2025/02/crime-investigation.png",Crime &#038; Investigation
+#EXTINF:-1 tvg-id="1899" tvg-name="Crime & Investigation" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2025/02/crime-investigation.png",Crime & Investigation
 http://sultanweb.info/LiveRDS.php?ID=crime-investigation
 #EXTINF:-1 tvg-id="1897" tvg-name="ID Investigation" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2025/02/id-investigation.png",ID Investigation
 http://sultanweb.info/LiveRDS.php?ID=id-investigation
@@ -264,4 +264,5 @@ http://sultanweb.info/LiveRDS.php?ID=speranta-tv
 #EXTINF:-1 tvg-id="1327" tvg-name="Alfa Omega" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/ALFAOMEGATV.png",Alfa Omega
 http://sultanweb.info/LiveRDS.php?ID=alfa-omega
 #EXTINF:-1 tvg-id="1304" tvg-name="Credo TV" group-title="RDS Romania" tvg-logo="https://rds.live/wp-content/uploads/2023/01/CREDOTV.png",Credo TV
+
 http://sultanweb.info/LiveRDS.php?ID=credo-tv
