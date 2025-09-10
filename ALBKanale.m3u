@@ -1,0 +1,355 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="SUPERSPORT 1" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",SUPERSPORT 1
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=ss1
+
+#EXTINF:-1 tvg-name="SUPERSPORT 2" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",SUPERSPORT 2
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=ss2
+
+#EXTINF:-1 tvg-name="SUPERSPORT 3" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",SUPERSPORT 3
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=ss3
+
+#EXTINF:-1 tvg-name="SUPERSPORT 4" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",SUPERSPORT 4
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=ss4
+
+#EXTINF:-1 tvg-name="TRING SPORT 1" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",TRING SPORT 1
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=ts1
+
+#EXTINF:-1 tvg-name="TRING SPORT 2" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",TRING SPORT 2
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=ts2
+
+#EXTINF:-1 tvg-name="A.SPORTS 1" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",A.SPORTS 1
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=as1
+
+#EXTINF:-1 tvg-name="A.SPORTS 2" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",A.SPORTS 2
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=as2
+
+#EXTINF:-1 tvg-name="A.SPORTS 3" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",A.SPORTS 3
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=as3
+
+#EXTINF:-1 tvg-name="A.SPORTS 4" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",A.SPORTS 4
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=as4
+
+#EXTINF:-1 tvg-name="A.SPORTS 5" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",A.SPORTS 5
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=as5
+
+#EXTINF:-1 tvg-name="A.SPORTS 6" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",A.SPORTS 6
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=as6
+
+#EXTINF:-1 tvg-name="FILM AKSION" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",FILM AKSION
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=filmaksion
+
+#EXTINF:-1 tvg-name="FILM AUTOR" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",FILM AUTOR
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=filmautor
+
+#EXTINF:-1 tvg-name="FILM DRAME" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",FILM DRAME
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=filmdrame
+
+#EXTINF:-1 tvg-name="3 PLUS" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",3 PLUS
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=3plus
+
+#EXTINF:-1 tvg-name="AKSION" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",AKSION
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=e-aksion
+
+#EXTINF:-1 tvg-name="THRILLER" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",THRILLER
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=e-thriller
+
+#EXTINF:-1 tvg-name="KOMEDI" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",KOMEDI
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=e-komedi
+
+#EXTINF:-1 tvg-name="DRAME" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",DRAME
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=e-drame
+
+#EXTINF:-1 tvg-name="SHQIP" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",SHQIP
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=e-shqip
+
+#EXTINF:-1 tvg-name="HORROR" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",HORROR
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=e-horror
+
+#EXTINF:-1 tvg-name="EXP. SHKENCE" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",EXP. SHKENCE
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=expshkence
+
+#EXTINF:-1 tvg-name="EXP. NATYRE" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",EXP. NATYRE
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=expnatyre
+
+#EXTINF:-1 tvg-name="EXP. HISTORI" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",EXP. HISTORI
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=exphisori
+
+#EXTINF:-1 tvg-name="DOCU DRAMA" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",DOCU DRAMA
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=docudrama
+
+#EXTINF:-1 tvg-name="B. PLANET" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",B. PLANET
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=bplanet
+
+#EXTINF:-1 tvg-name="HISTORY EAST" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",HISTORY EAST
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=historyeast
+
+#EXTINF:-1 tvg-name="CUFO TV" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",CUFO TV
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=cufo
+
+#EXTINF:-1 tvg-name="BANG BANG" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",BANG BANG
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=bangbang
+
+#EXTINF:-1 tvg-name="VIZATIMORE" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",VIZATIMORE
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=e-vizatimore
+
+#EXTINF:-1 tvg-name="A.MUSIC TV" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",A.MUSIC TV
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=albkanalemusic
+
+#EXTINF:-1 tvg-name="ZICO TV" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",ZICO TV
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=zicotv
+
+#EXTINF:-1 tvg-name="FRAME TV" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",FRAME TV
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=frametv
+
+#EXTINF:-1 tvg-name="SHQIPONJA TV" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",SHQIPONJA TV
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=shqiponjatv
+
+#EXTINF:-1 tvg-name="TV SHARRI" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",TV SHARRI
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=tvsharri
+
+#EXTINF:-1 tvg-name="M2O MUSIC" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",M2O MUSIC
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=m2omusic
+
+#EXTINF:-1 tvg-name="NRG TV" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",NRG TV
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=nrgtv
+
+#EXTINF:-1 tvg-name="ACTIVA TV" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",ACTIVA TV
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=activatv
+
+#EXTINF:-1 tvg-name="HIT TV" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",HIT TV
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=hittv
+
+#EXTINF:-1 tvg-name="BARAZA TV" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",BARAZA TV
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=barazatv
+
+#EXTINF:-1 tvg-name="POWER TR" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",POWER TR
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=powertr
+
+#EXTINF:-1 tvg-name="APOLLON TV" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",APOLLON TV
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=apollontv
+
+#EXTINF:-1 tvg-name="ALPO TV" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",ALPO TV
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=alpotv
+
+#EXTINF:-1 tvg-name="NTV" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",NTV
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=ntv
+
+#EXTINF:-1 tvg-name="ARTA NEWS" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",ARTA NEWS
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=artanews
+
+#EXTINF:-1 tvg-name="TV PRIZRENI" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",TV PRIZRENI
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=tvprizreni
+
+#EXTINF:-1 tvg-name="FX MEDIA" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",FX MEDIA
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=fxmedia
+
+#EXTINF:-1 tvg-name="DRITA TV" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",DRITA TV
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=dritatv
+
+#EXTINF:-1 tvg-name="ADN HD" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",ADN HD
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=adnhd
+
+#EXTINF:-1 tvg-name="TV 7" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",TV 7
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=tv7
+
+#EXTINF:-1 tvg-name="PREMIUM CH" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",PREMIUM CH
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=premiumch
+
+#EXTINF:-1 tvg-name="TEUTA TV" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",TEUTA TV
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=teutatv
+
+#EXTINF:-1 tvg-name="SYRI VISION" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",SYRI VISION
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=syrivision
+
+#EXTINF:-1 tvg-name="TV2 GOSTIVAR" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",TV2 GOSTIVAR
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=tv2gostivar
+
+#EXTINF:-1 tvg-name="ARBERIA 1" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",ARBERIA 1
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=arberia1
+
+#EXTINF:-1 tvg-name="RTV NJE" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",RTV NJE
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=rtvnje
+
+#EXTINF:-1 tvg-name="RTV ISLAM" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",RTV ISLAM
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=rtvislam
+
+#EXTINF:-1 tvg-name="TOP CHANNEL" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",TOP CHANNEL
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=topchannel
+
+#EXTINF:-1 tvg-name="TV KLAN" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",TV KLAN
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=tvklan
+
+#EXTINF:-1 tvg-name="KLAN PLUS" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",KLAN PLUS
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=klanplus
+
+#EXTINF:-1 tvg-name="VIZION PLUS" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",VIZION PLUS
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=vizionplus
+
+#EXTINF:-1 tvg-name="NEWS 24" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",NEWS 24
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=news24
+
+#EXTINF:-1 tvg-name="DIGITALB SPORT" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",DIGITALB SPORT
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=digitalbsport
+
+#EXTINF:-1 tvg-name="DIGITALB ALFA" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",DIGITALB ALFA
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=digitalbalfa
+
+#EXTINF:-1 tvg-name="DIGITALB PREMIUM" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",DIGITALB PREMIUM
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=digitalbpremium
+
+#EXTINF:-1 tvg-name="DIGITALB MOVIE" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",DIGITALB MOVIE
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=digitalbmovie
+
+#EXTINF:-1 tvg-name="DIGITALB KIDS" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",DIGITALB KIDS
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=digitalbkids
+
+#EXTINF:-1 tvg-name="DIGITALB ACTION" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",DIGITALB ACTION
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=digitalbaction
+
+#EXTINF:-1 tvg-name="DIGITALB SHOW" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",DIGITALB SHOW
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=digitalbshow
+
+#EXTINF:-1 tvg-name="DIGITALB FOLK" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",DIGITALB FOLK
+#EXTVLCOPT:http-referrer=https://triangolomedia.com/
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+http://albkanale.karamehmet.workers.dev/?ID=digitalbfolk
