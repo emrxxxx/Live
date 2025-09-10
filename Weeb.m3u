@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tvn24najlepszyt" tvg-name="TVN24 HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/d6a6d51de7c087a3cc73af5fc3579ed9.jpg",TVN24 HD
+http://web.karamehmet.workers.dev/?ID=tvn24najlepszyt
+#EXTINF:-1 tvg-id="jtv6" tvg-name="TV Republika HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/4d3e120792ba004c3ac1c7fd37547040.jpg",TV Republika HD
+http://web.karamehmet.workers.dev/?ID=jtv6
+#EXTINF:-1 tvg-id="tvp2_Hdtvts" tvg-name="TVP2 HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/597267330adc9285af698cc2804e184a.jpg",TVP2 HD
+http://web.karamehmet.workers.dev/?ID=tvp2_Hdtvts
+#EXTINF:-1 tvg-id="turbomaniak_tvhd" tvg-name="TVN TURBO HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/9809a42c2631bc7265199839e4e3b666.jpg",TVN TURBO HD
+http://web.karamehmet.workers.dev/?ID=turbomaniak_tvhd
+#EXTINF:-1 tvg-id="pulstv" tvg-name="Puls HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/4fd10a0c56703a1cafaaca6902f42a14.jpg",Puls HD
+http://web.karamehmet.workers.dev/?ID=pulstv
+#EXTINF:-1 tvg-id="filmy24cz" tvg-name="HBO HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/6ccb1b54b1b63095cd8f86f3dd5c4436.jpg",HBO HD
+http://web.karamehmet.workers.dev/?ID=filmy24cz
+#EXTINF:-1 tvg-id="kissfmuk" tvg-name="Świat Według Kiepskich" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/fe6713a42337204ef7bd7df339c48ef0.jpg",Świat Według Kiepskich
+http://web.karamehmet.workers.dev/?ID=kissfmuk
+#EXTINF:-1 tvg-id="fox_hd" tvg-name="FOX HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/2dc9ab920bc0fe0812121142007b4f29.jpg",FOX HD
+http://web.karamehmet.workers.dev/?ID=fox_hd
+#EXTINF:-1 tvg-id="miodowelata" tvg-name="Miodowe Lata" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/f9050e5e3941eba7db7637a60f765e72.jpg",Miodowe Lata
+http://web.karamehmet.workers.dev/?ID=miodowelata
+#EXTINF:-1 tvg-id="tvp_1hdtvd" tvg-name="TVP1 HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/9fe2e1a2c9659a9c3b4f35354b0e35e0.jpg",TVP1 HD
+http://web.karamehmet.workers.dev/?ID=tvp_1hdtvd
+#EXTINF:-1 tvg-id="tv_serial24taws" tvg-name="TVP SERIALE" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/c1f1f7ff1cac612ee8c0f7aa6d361370.jpg",TVP SERIALE
+http://web.karamehmet.workers.dev/?ID=tv_serial24taws
+#EXTINF:-1 tvg-id="baby__tv" tvg-name="HISTORY 2 HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/42fd4f28f1c239432f061b028511574c.jpg",HISTORY 2 HD
+http://web.karamehmet.workers.dev/?ID=baby__tv
+#EXTINF:-1 tvg-id="kuchennerewolucje" tvg-name="NOWE ODCINKI KUCHENNE REWOLUCJE" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/f49529341059e9934cdccd76ee16a25c.jpg",NOWE ODCINKI KUCHENNE REWOLUCJE
+http://web.karamehmet.workers.dev/?ID=kuchennerewolucje
+#EXTINF:-1 tvg-id="informacyjny_polskatvbba" tvg-name="TVP INFO HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/6b360c8c49cb405f1eae6ab888e94f46.jpg",TVP INFO HD
+http://web.karamehmet.workers.dev/?ID=informacyjny_polskatvbba
+#EXTINF:-1 tvg-id="history" tvg-name="HISTORY HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/7c60eb2505219916fd929b589c21ab50.jpg",HISTORY HD
+http://web.karamehmet.workers.dev/?ID=history
+#EXTINF:-1 tvg-id="discorrv_HD" tvg-name="DISCOVERY HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/5a6e7e8481ccb3f97272e8b7d5539a17.jpg",DISCOVERY HD
+http://web.karamehmet.workers.dev/?ID=discorrv_HD
+#EXTINF:-1 tvg-id="kino_polska_tv" tvg-name="KINO POLSKA" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/1f71307fd4402e556d900ed07b7a11cd.jpg",KINO POLSKA
+http://web.karamehmet.workers.dev/?ID=kino_polska_tv
+#EXTINF:-1 tvg-id="comedycentralpl" tvg-name="Comedy Central HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/c7ab9dc64b50dc300d65f26c024fc48e.jpg",Comedy Central HD
+http://web.karamehmet.workers.dev/?ID=comedycentralpl
+#EXTINF:-1 tvg-id="4fun_tv" tvg-name="CRIME+INVESTIGATION POLSAT" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/38a9a73a9b0b25efb4b09216266fd410.jpg",CRIME+INVESTIGATION POLSAT
+http://web.karamehmet.workers.dev/?ID=4fun_tv
+#EXTINF:-1 tvg-id="nat_geo_peopletvt" tvg-name="INVESTIGATION DISCOVERY HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/70a74e43b56922d60f986f9d1815b580.jpg",INVESTIGATION DISCOVERY HD
+http://web.karamehmet.workers.dev/?ID=nat_geo_peopletvt
+#EXTINF:-1 tvg-id="tvnstyleh" tvg-name="TVN Style HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/2591f39ebed9f9bceb0f48b7e2987fda.jpg",TVN Style HD
+http://web.karamehmet.workers.dev/?ID=tvnstyleh
+#EXTINF:-1 tvg-id="polsatplay_hd1" tvg-name="POLSAT PLAY HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/5ea98332a0c7073a997163e3c5ebf917.jpg",POLSAT PLAY HD
+http://web.karamehmet.workers.dev/?ID=polsatplay_hd1
+#EXTINF:-1 tvg-id="disney_junior" tvg-name="DISNEY JUNIOR" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/39dc2d4ecea3ceb0d7150ae65614b05a.jpg",DISNEY JUNIOR
+http://web.karamehmet.workers.dev/?ID=disney_junior
+#EXTINF:-1 tvg-id="hbochannel2hdtv" tvg-name="HBO 2 HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/e0dfa896cc7f3272d4ddbf25f1d2f825.jpg",HBO 2 HD
+http://web.karamehmet.workers.dev/?ID=hbochannel2hdtv
+#EXTINF:-1 tvg-id="drhousemd24" tvg-name="DR HOUSE - 8 SEZONÓW" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/641cb845d23b26be2e62c16193f11609.jpg",DR HOUSE - 8 SEZONÓW
+http://web.karamehmet.workers.dev/?ID=drhousemd24
+#EXTINF:-1 tvg-id="hbo3_hdtv" tvg-name="HBO 3" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/b2721dee5d7bc5616f58afbdb74eb596.jpg",HBO 3
+http://web.karamehmet.workers.dev/?ID=hbo3_hdtv
+#EXTINF:-1 tvg-id="nowa_tvhv" tvg-name="13 ULICA HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/2a16be73a8f65a0bf07cc452b7b809dc.jpg",13 ULICA HD
+http://web.karamehmet.workers.dev/?ID=nowa_tvhv
+#EXTINF:-1 tvg-id="eska__tvmusic" tvg-name="ESKA.TV" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/fbaaff642b850c7e0079059a49f0b7d7.jpg",ESKA.TV
+http://web.karamehmet.workers.dev/?ID=eska__tvmusic
+#EXTINF:-1 tvg-id="tvp_sport_hdtv" tvg-name="POLSAT SERIALE" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/362391ace7cbce1f048a8a8878276d13.jpg",POLSAT SERIALE
+http://web.karamehmet.workers.dev/?ID=tvp_sport_hdtv
+#EXTINF:-1 tvg-id="axn_hd" tvg-name="AXN HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/e92b8c192bb2659ebfe79881935f7104.jpg",AXN HD
+http://web.karamehmet.workers.dev/?ID=axn_hd
+#EXTINF:-1 tvg-id="sportta" tvg-name="Paramount Channel HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/4db05acb2a9863450d88ffd37ac3bc1c.jpg",Paramount Channel HD
+http://web.karamehmet.workers.dev/?ID=sportta
+#EXTINF:-1 tvg-id="nat_geo_wild_hd" tvg-name="NAT GEO WILD HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/7cbca59206be273594b9275c9b5c9b04.jpg",NAT GEO WILD HD
+http://web.karamehmet.workers.dev/?ID=nat_geo_wild_hd
+#EXTINF:-1 tvg-id="stopklatka_tv" tvg-name="STOPKLATKA TV" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/b3f739528aabdd556ce9a7514430b499.jpg",STOPKLATKA TV
+http://web.karamehmet.workers.dev/?ID=stopklatka_tv
+#EXTINF:-1 tvg-id="ESP2__HD" tvg-name="EUROSPORT 2" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/e8745e2f32797f6d852db3ea5239945c.jpg",EUROSPORT 2
+http://web.karamehmet.workers.dev/?ID=ESP2__HD
+#EXTINF:-1 tvg-id="zet_gold" tvg-name="TVP KOBIETA" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/cddc26197f98d0c626eda732fe5a6813.jpg",TVP KOBIETA
+http://web.karamehmet.workers.dev/?ID=zet_gold
+#EXTINF:-1 tvg-id="sportTVP_channeed" tvg-name="TVP SPORT HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/392d8e38949b5bf2c705680ee5ef23db.jpg",TVP SPORT HD
+http://web.karamehmet.workers.dev/?ID=sportTVP_channeed
+#EXTINF:-1 tvg-id="fokus_tv" tvg-name="FOKUS TV" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/9f0456bed9e7a3c80860dcf75fe51eba.jpg",FOKUS TV
+http://web.karamehmet.workers.dev/?ID=fokus_tv
+#EXTINF:-1 tvg-id="13posterunek" tvg-name="13 POSTERUNEK Wszystkie odcinki" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/0f1ca0f828e2825a10f3efb9cc71c781.jpg",13 POSTERUNEK Wszystkie odcinki
+http://web.karamehmet.workers.dev/?ID=13posterunek
+#EXTINF:-1 tvg-id="superstacja_tv" tvg-name="CINEMAX 2 HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/b50ed9003dd7825b58489245f44cdee1.jpg",CINEMAX 2 HD
+http://web.karamehmet.workers.dev/?ID=superstacja_tv
+#EXTINF:-1 tvg-id="elevensports_123" tvg-name="PULS 2 HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/6ef16fa711b2fd65fafb16ff1a4c366f.jpg",PULS 2 HD
+http://web.karamehmet.workers.dev/?ID=elevensports_123
+#EXTINF:-1 tvg-id="wp_hd" tvg-name="WP HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/6adabba61b133d3de3396fff2a142998.jpg",WP HD
+http://web.karamehmet.workers.dev/?ID=wp_hd
+#EXTINF:-1 tvg-id="fightbox_hd" tvg-name="EPIC DRAMA HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/9e83d4612cc1f25bb8f6c9652415cf21.jpg",EPIC DRAMA HD
+http://web.karamehmet.workers.dev/?ID=fightbox_hd
+#EXTINF:-1 tvg-id="epic_dramahd" tvg-name="POLSAT RODZINA HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/1af964a90e8894d62681bb203c225686.jpg",POLSAT RODZINA HD
+http://web.karamehmet.workers.dev/?ID=epic_dramahd
+#EXTINF:-1 tvg-id="archiwumx" tvg-name="Z ARCHIWUM X Wszystkie odcinki" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/c7a4c3ad3bfb8125961217dfeff5ed75.jpg",Z ARCHIWUM X Wszystkie odcinki
+http://web.karamehmet.workers.dev/?ID=archiwumx
+#EXTINF:-1 tvg-id="eska_rocktv" tvg-name="DISCOVERY SCIENCE HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/18eeea9460622e7b8f28895f2c4a44d8.jpg",DISCOVERY SCIENCE HD
+http://web.karamehmet.workers.dev/?ID=eska_rocktv
+#EXTINF:-1 tvg-id="macgyver" tvg-name="MACGYVER" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/8f35eb765fe8f81d8c790537c11c0dbe.jpg",MACGYVER
+http://web.karamehmet.workers.dev/?ID=macgyver
+#EXTINF:-1 tvg-id="disney__xd" tvg-name="AXN BLACK" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/11aab0acb26a4a8062d99c872fb6d03a.jpg",AXN BLACK
+http://web.karamehmet.workers.dev/?ID=disney__xd
+#EXTINF:-1 tvg-id="zoom_tv" tvg-name="ZOOM TV" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/88d9e87ab7f9236e96be0c772ed512c5.jpg",ZOOM TV
+http://web.karamehmet.workers.dev/?ID=zoom_tv
+#EXTINF:-1 tvg-id="cbs_europatvhd2" tvg-name="CANAL+ FILM HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/ba8501fb23e516c074f2e821c838545a.jpg",CANAL+ FILM HD
+http://web.karamehmet.workers.dev/?ID=cbs_europatvhd2
+#EXTINF:-1 tvg-id="sport_premium2" tvg-name="NICK JR" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/84497042a2f7c44d6c6d9df464bbbc50.jpg",NICK JR
+http://web.karamehmet.workers.dev/?ID=sport_premium2
+#EXTINF:-1 tvg-id="polo_tv_hd" tvg-name="POLO TV" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/0c41bc12786446d0e65c8dc0805066af.jpg",POLO TV
+http://web.karamehmet.workers.dev/?ID=polo_tv_hd
+#EXTINF:-1 tvg-id="hbo_3_3" tvg-name="CANAL+ EXTRA 1 HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/b4461a151e143353069520f2078394b8.jpg",CANAL+ EXTRA 1 HD
+http://web.karamehmet.workers.dev/?ID=hbo_3_3
+#EXTINF:-1 tvg-id="cpluspremiumtvhd2" tvg-name="Canal+ Premium" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/e6c4941d4fe5e6c4879b961be8599421.jpg",Canal+ Premium
+http://web.karamehmet.workers.dev/?ID=cpluspremiumtvhd2
+#EXTINF:-1 tvg-id="klasykatvh" tvg-name="HGTV HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/4e89e978469f9308d3d4b89e9271987d.jpg",HGTV HD
+http://web.karamehmet.workers.dev/?ID=klasykatvh
+#EXTINF:-1 tvg-id="puls_hd_zap" tvg-name="BOSO PRZEZ SWIAT" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/79ef48a949dd8091cdc82d4e9045fa0a.jpg",BOSO PRZEZ SWIAT
+http://web.karamehmet.workers.dev/?ID=puls_hd_zap
+#EXTINF:-1 tvg-id="detektywi" tvg-name="KRÓLOWE ŻYCIA" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/99a72df011af7fc9afa0bf4bb025819d.jpg",KRÓLOWE ŻYCIA
+http://web.karamehmet.workers.dev/?ID=detektywi
+#EXTINF:-1 tvg-id="event" tvg-name="POLSAT SPORT EXTRA 1" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/eb2065524cd983d1158a46e0a93b2f23.jpg",POLSAT SPORT EXTRA 1
+http://web.karamehmet.workers.dev/?ID=event
+#EXTINF:-1 tvg-id="rodzinkapl" tvg-name="RODZINKA.PL Wszystkie odcinki" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/141624ab8add9ab5c37345b93b218fdd.jpg",RODZINKA.PL Wszystkie odcinki
+http://web.karamehmet.workers.dev/?ID=rodzinkapl
+#EXTINF:-1 tvg-id="filmbox_premium_hd" tvg-name="FILMBOX PREMIUM HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/2f8c0a77fd44b16e725f17986b9b2187.jpg",FILMBOX PREMIUM HD
+http://web.karamehmet.workers.dev/?ID=filmbox_premium_hd
+#EXTINF:-1 tvg-id="comedyfamily_sd" tvg-name="COMEDY CENTRAL FAMILY" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/1081e1b3fee46ac33d1ba75b0438fb0e.jpg",COMEDY CENTRAL FAMILY
+http://web.karamehmet.workers.dev/?ID=comedyfamily_sd
+#EXTINF:-1 tvg-id="cplustfvr3" tvg-name="Canal+ 1" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/80dea2935c7bf72c96b5220f02c92c03.jpg",Canal+ 1
+http://web.karamehmet.workers.dev/?ID=cplustfvr3
+#EXTINF:-1 tvg-id="axn_blacktvhd2" tvg-name="CANAL+ SERIALE HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/eb38f3c8cf8930de7221f9df5466cb7b.jpg",CANAL+ SERIALE HD
+http://web.karamehmet.workers.dev/?ID=axn_blacktvhd2
+#EXTINF:-1 tvg-id="tv4_" tvg-name="TVP ABC HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/b00eefd365e0098849265d7f198cc019.jpg",TVP ABC HD
+http://web.karamehmet.workers.dev/?ID=tv4_
+#EXTINF:-1 tvg-id="filmboxextra_hd1" tvg-name="4FUN KIDS" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/1451d73349cdb7521f7544f3632ac3be.jpg",4FUN KIDS
+http://web.karamehmet.workers.dev/?ID=filmboxextra_hd1
+#EXTINF:-1 tvg-id="elevenspo2" tvg-name="Eleven Sports 2" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/231d1142f13d0a2e8c85eb973a72355b.jpg",Eleven Sports 2
+http://web.karamehmet.workers.dev/?ID=elevenspo2
+#EXTINF:-1 tvg-id="filmbox_kinotv" tvg-name="KINO TV" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/4ce794284899026df792d77efc6c2174.jpg",KINO TV
+http://web.karamehmet.workers.dev/?ID=filmbox_kinotv
+#EXTINF:-1 tvg-id="tvp_1_hd" tvg-name="POLSAT SPORT FIGHT" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/03dad262f246e25c8a1192fa50eba32f.jpg",POLSAT SPORT FIGHT
+http://web.karamehmet.workers.dev/?ID=tvp_1_hd
+#EXTINF:-1 tvg-id="nickelodeon_" tvg-name="FILMBOX FAMILY HD" group-title="WeebTV" tvg-logo="https://static.weeb.tv/logos/dc6bf9ba6b124fe25a25c0f94b98773e.jpg",FILMBOX FAMILY HD
+http://web.karamehmet.workers.dev/?ID=nickelodeon_
