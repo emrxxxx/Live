@@ -39,3 +39,55 @@ http://freshot.karamehmet.workers.dev/?ID=SPORTKLUB3RS
 http://freshot.karamehmet.workers.dev/?ID=SPORTKLUB2RS
 #EXTINF:-1 tvg-id="105" tvg-logo="https://www.freshot.live/upload/source/SportKlub-1-logo.png" group-title="EX-YU",SportKlub 1 RS
 http://freshot.karamehmet.workers.dev/?ID=SPORTKLUB1RS
+#EXTINF:-1 tvg-id="PolsatSportFight" tvg-name="Polsat Sport Fight Poland" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Polsat Sport Fight Poland
+http://freshot.karamehmet.workers.dev/?ID=PolsatSportFight
+#EXTINF:-1 tvg-id="EUROSPORT1PL" tvg-name="Eurosport 1 Poland" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Eurosport 1 Poland
+http://freshot.karamehmet.workers.dev/?ID=EUROSPORT1PL
+#EXTINF:-1 tvg-id="EUROSPORT2PL" tvg-name="Eurosport 2 Poland" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Eurosport 2 Poland
+http://freshot.karamehmet.workers.dev/?ID=EUROSPORT2PL
+#EXTINF:-1 tvg-id="POLSAT" tvg-name="Polsat Poland" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Polsat Poland
+http://freshot.karamehmet.workers.dev/?ID=POLSAT
+#EXTINF:-1 tvg-id="POLSATSPORTNEWS" tvg-name="Polsat Sport 3 Poland" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Polsat Sport 3 Poland
+http://freshot.karamehmet.workers.dev/?ID=POLSATSPORTNEWS
+#EXTINF:-1 tvg-id="POLSATSPORTEXTRA" tvg-name="Polsat Sport 2 Poland" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Polsat Sport 2 Poland
+http://freshot.karamehmet.workers.dev/?ID=POLSATSPORTEXTRA
+#EXTINF:-1 tvg-id="POLSATSPORTPL" tvg-name="Polsat Sport 1 Poland" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Polsat Sport 1 Poland
+http://freshot.karamehmet.workers.dev/?ID=POLSATSPORTPL
+#EXTINF:-1 tvg-id="Motowizja" tvg-name="Motowizja" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Motowizja
+http://freshot.karamehmet.workers.dev/?ID=Motowizja
+#EXTINF:-1 tvg-id="ElevenSports3PL" tvg-name="Eleven Sports 4 Poland" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Eleven Sports 4 Poland
+http://freshot.karamehmet.workers.dev/?ID=ElevenSports4PL
+#EXTINF:-1 tvg-id="ElevenSports3PL" tvg-name="Eleven Sports 3 Poland" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Eleven Sports 3 Poland
+http://freshot.karamehmet.workers.dev/?ID=ElevenSports3PL
+#EXTINF:-1 tvg-id="ElevenSports2PL" tvg-name="Eleven Sports 2 Poland" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Eleven Sports 2 Poland
+http://freshot.karamehmet.workers.dev/?ID=ElevenSports2PL
+#EXTINF:-1 tvg-id="ElevenSports1PL" tvg-name="Eleven Sports 1 Poland" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Eleven Sports 1 Poland
+http://freshot.karamehmet.workers.dev/?ID=ElevenSports1PL
+#EXTINF:-1 tvg-id="CANALSPORT5PL" tvg-name="Canal + Sport 5 Poland" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Canal + Sport 5 Poland
+http://freshot.karamehmet.workers.dev/?ID=CANALSPORT5PL
+#EXTINF:-1 tvg-id="CANALSPORT4PL" tvg-name="Canal + Sport 4 Poland" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Canal + Sport 4 Poland
+http://freshot.karamehmet.workers.dev/?ID=CANALSPORT4PL
+#EXTINF:-1 tvg-id="CANALSPORT3PL" tvg-name="Canal + Sport 3 Poland" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Canal + Sport 3 Poland
+http://freshot.karamehmet.workers.dev/?ID=CANALSPORT3PL
+#EXTINF:-1 tvg-id="CANALSPORT2PL" tvg-name="Canal + Sport 2 Poland" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Canal + Sport 2 Poland
+http://freshot.karamehmet.workers.dev/?ID=CANALSPORT2PL
+#EXTINF:-1 tvg-id="CANALSPORTPL" tvg-name="Canal + Sport Poland" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Canal + Sport Poland
+http://freshot.karamehmet.workers.dev/?ID=CANALSPORTPL
+#EXTINF:-1 tvg-id="SkySportsNewsDE" tvg-name="Sky Sports News DE" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Sky Sports News DE
+http://freshot.karamehmet.workers.dev/?ID=SkySportsNewsDE
+#EXTINF:-1 tvg-id="SkySportMixDE" tvg-name="Sky Sport Mix DE" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Sky Sport Mix DE
+http://freshot.karamehmet.workers.dev/?ID=SkySportMixDE
+#EXTINF:-1 tvg-id="SkySportF1DE" tvg-name="Sky Sport F1 DE" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Sky Sport F1 DE
+http://freshot.karamehmet.workers.dev/?ID=SkySportF1DE
+#EXTINF:-1 tvg-id="SkySportGolfDE" tvg-name="Sky Sport Golf DE" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Sky Sport Golf DE
+http://freshot.karamehmet.workers.dev/?ID=SkySportGolfDE
+#EXTINF:-1 tvg-id="SkySportTopEvent" tvg-name="Sky Sport Top Event DE" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Sky Sport Top Event DE
+http://freshot.karamehmet.workers.dev/?ID=SkySportTopEvent
+#EXTINF:-1 tvg-id="SkySportTopEvent" tvg-name="Sky Sport Top Event DE" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Sky Sport Top Event DE
+http://freshot.karamehmet.workers.dev/?ID=SkySportTopEvent
+#EXTINF:-1 tvg-id="SkySportPremierLeagueDE" tvg-name="Sky Sport Premier League DE" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Sky Sport Premier League DE
+http://freshot.karamehmet.workers.dev/?ID=SkySportPremierLeagueDE
+#EXTINF:-1 tvg-id="sportdigitalfussball" tvg-name="Sportdigital Fussball DE" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",Sportdigital Fussball DE
+http://freshot.karamehmet.workers.dev/?ID=sportdigitalfussball
+#EXTINF:-1 tvg-id="DAZNDE" tvg-name="DAZN 1 DE" group-title="FreeShot" tvg-logo="https://freeshot.top/wp-content/uploads/2025/07/FreeShotTop1.png",DAZN 1 DE
+http://freshot.karamehmet.workers.dev/?ID=DAZNDE
