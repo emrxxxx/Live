@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="teknofest-tv" tvg-name="Teknofest TV" group-title="Ulusal" tvg-logo="https://dsmart-static-v2.ercdn.net/content/u/YP/99148/Thumbnail.png",Teknofest TV
-http://sultanweb.info/LetsGO.php?ID=99148
 #EXTINF:-1 tvg-id="kanal-d" tvg-name="Kanal D" group-title="Ulusal" tvg-logo="https://dsmart-static-v2.ercdn.net/content/-/EU/11785/Thumbnail.png",Kanal D
 http://sultanweb.info/LetsGO.php?ID=11785
 #EXTINF:-1 tvg-id="sinema-tv" tvg-name="Sinema TV" group-title="Film" tvg-logo="https://dsmart-static-v2.ercdn.net/content/T/QU/22894/Thumbnail.png",Sinema TV
