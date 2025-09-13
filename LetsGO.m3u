@@ -35,7 +35,7 @@ http://sultanweb.info/LetsGO.php?ID=16203
 http://sultanweb.info/LetsGO.php?ID=11913
 #EXTINF:-1 tvg-id="ulusal-coklu-ekran" tvg-name="Ulusal Çoklu Ekran" group-title=" Ulusal" tvg-logo="https://dsmart-static-v2.ercdn.net/content/4/Ak/96690/Thumbnail.png",Ulusal Çoklu Ekran
 http://sultanweb.info/LetsGO.php?ID=96690
-#EXTINF:-1 tvg-id="teve-2" tvg-name="TEVE 2" group-title="TV, TV 2, Ulusal" tvg-logo="https://dsmart-static-v2.ercdn.net/content/h/4C/11904/Thumbnail.png",TEVE 2
+#EXTINF:-1 tvg-id="teve-2" tvg-name="TEVE 2" group-title="Ulusal" tvg-logo="https://dsmart-static-v2.ercdn.net/content/h/4C/11904/Thumbnail.png",TEVE 2
 http://sultanweb.info/LetsGO.php?ID=11904
 #EXTINF:-1 tvg-id="show-tv" tvg-name="Show TV" group-title="Ulusal" tvg-logo="https://dsmart-static-v2.ercdn.net/content/E/aM/11889/Thumbnail.png",Show TV
 http://sultanweb.info/LetsGO.php?ID=11889
@@ -81,13 +81,13 @@ http://sultanweb.info/LetsGO.php?ID=13726
 http://sultanweb.info/LetsGO.php?ID=13734
 #EXTINF:-1 tvg-id="dmax" tvg-name="DMAX" group-title="Ulusal" tvg-logo="https://dsmart-static-v2.ercdn.net/content/D/5X/11893/Thumbnail.png",DMAX
 http://sultanweb.info/LetsGO.php?ID=11893
-#EXTINF:-1 tvg-id="cnn-international" tvg-name="CNN International" group-title="Haber, Yabancı" tvg-logo="https://dsmart-static-v2.ercdn.net/content/T/PK/11898/Thumbnail.png",CNN International
+#EXTINF:-1 tvg-id="cnn-international" tvg-name="CNN International" group-title="Haber" tvg-logo="https://dsmart-static-v2.ercdn.net/content/T/PK/11898/Thumbnail.png",CNN International
 http://sultanweb.info/LetsGO.php?ID=11898
 #EXTINF:-1 tvg-id="bbc-world-news" tvg-name="BBC World News" group-title="BBC WORLD NEWS" tvg-logo="https://dsmart-static-v2.ercdn.net/content/p/XZ/11897/Thumbnail.png",BBC World News
 http://sultanweb.info/LetsGO.php?ID=11897
 #EXTINF:-1 tvg-id="a-para" tvg-name="A Para" group-title="Haber" tvg-logo="https://dsmart-static-v2.ercdn.net/content/v/7e/13515/Thumbnail.png",A Para
 http://sultanweb.info/LetsGO.php?ID=13515
-#EXTINF:-1 tvg-id="bbc-earth" tvg-name="BBC Earth" group-title="Belgesel, Yabancı" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/Bj/11896/Thumbnail.png",BBC Earth
+#EXTINF:-1 tvg-id="bbc-earth" tvg-name="BBC Earth" group-title="Belgesel" tvg-logo="https://dsmart-static-v2.ercdn.net/content/e/Bj/11896/Thumbnail.png",BBC Earth
 http://sultanweb.info/LetsGO.php?ID=11896
 #EXTINF:-1 tvg-id="viasat-history" tvg-name="Viasat History" group-title="Tarih" tvg-logo="https://dsmart-static-v2.ercdn.net/content/t/hI/13387/Thumbnail.png",Viasat History
 http://sultanweb.info/LetsGO.php?ID=13387
@@ -109,17 +109,17 @@ http://sultanweb.info/LetsGO.php?ID=58626
 http://sultanweb.info/LetsGO.php?ID=13866
 #EXTINF:-1 tvg-id="fashion-tv" tvg-name="Fashion TV" group-title="FASHION TV" tvg-logo="https://dsmart-static-v2.ercdn.net/content/E/I9/11901/Thumbnail.png",Fashion TV
 http://sultanweb.info/LetsGO.php?ID=11901
-#EXTINF:-1 tvg-id="spor-coklu-ekran" tvg-name="Spor Çoklu Ekran" group-title=" Spor" tvg-logo="https://dsmart-static-v2.ercdn.net/content/n/72/96693/Thumbnail.png",Spor Çoklu Ekran
+#EXTINF:-1 tvg-id="spor-coklu-ekran" tvg-name="Spor Çoklu Ekran" group-title="Spor" tvg-logo="https://dsmart-static-v2.ercdn.net/content/n/72/96693/Thumbnail.png",Spor Çoklu Ekran
 http://sultanweb.info/LetsGO.php?ID=96693
-#EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV" group-title="spor" tvg-logo="https://dsmart-static-v2.ercdn.net/content/o/DZ/11903/Thumbnail.png",NBA TV
+#EXTINF:-1 tvg-id="nba-tv" tvg-name="NBA TV" group-title="Spor" tvg-logo="https://dsmart-static-v2.ercdn.net/content/o/DZ/11903/Thumbnail.png",NBA TV
 http://sultanweb.info/LetsGO.php?ID=11903
-#EXTINF:-1 tvg-id="love-nature" tvg-name="Love Nature" group-title="belgesel" tvg-logo="https://dsmart-static-v2.ercdn.net/content/u/6a/18359/Thumbnail.png",Love Nature
+#EXTINF:-1 tvg-id="love-nature" tvg-name="Love Nature" group-title="Belgesel" tvg-logo="https://dsmart-static-v2.ercdn.net/content/u/6a/18359/Thumbnail.png",Love Nature
 http://sultanweb.info/LetsGO.php?ID=18359
-#EXTINF:-1 tvg-id="tay-tv" tvg-name="Tay TV" group-title="spor, at yarışı" tvg-logo="https://dsmart-static-v2.ercdn.net/content/P/4W/13572/Thumbnail.png",Tay TV
+#EXTINF:-1 tvg-id="tay-tv" tvg-name="Tay TV" group-title="At Yarışı" tvg-logo="https://dsmart-static-v2.ercdn.net/content/P/4W/13572/Thumbnail.png",Tay TV
 http://sultanweb.info/LetsGO.php?ID=13572
-#EXTINF:-1 tvg-id="eurosport-1" tvg-name="Eurosport 1" group-title="spor" tvg-logo="https://dsmart-static-v2.ercdn.net/content/L/Ra/11892/Thumbnail.png",Eurosport 1
+#EXTINF:-1 tvg-id="eurosport-1" tvg-name="Eurosport 1" group-title="Spor" tvg-logo="https://dsmart-static-v2.ercdn.net/content/L/Ra/11892/Thumbnail.png",Eurosport 1
 http://sultanweb.info/LetsGO.php?ID=11892
-#EXTINF:-1 tvg-id="eurosport-2" tvg-name="Eurosport 2" group-title="spor" tvg-logo="https://dsmart-static-v2.ercdn.net/content/h/Ws/11900/Thumbnail.png",Eurosport 2
+#EXTINF:-1 tvg-id="eurosport-2" tvg-name="Eurosport 2" group-title="Spor" tvg-logo="https://dsmart-static-v2.ercdn.net/content/h/Ws/11900/Thumbnail.png",Eurosport 2
 http://sultanweb.info/LetsGO.php?ID=11900
 #EXTINF:-1 tvg-id="spor-smart" tvg-name="Spor Smart" group-title="SPOR SMART" tvg-logo="https://dsmart-static-v2.ercdn.net/content/p/el/11909/Thumbnail.png",Spor Smart
 http://sultanweb.info/LetsGO.php?ID=11909
@@ -131,83 +131,83 @@ http://sultanweb.info/LetsGO.php?ID=13729
 http://sultanweb.info/LetsGO.php?ID=11911
 #EXTINF:-1 tvg-id="spor-smart-2" tvg-name="Spor Smart 2" group-title="SPOR SMART 2" tvg-logo="https://dsmart-static-v2.ercdn.net/content/a/Bl/14585/Thumbnail.png",Spor Smart 2
 http://sultanweb.info/LetsGO.php?ID=14585
-#EXTINF:-1 tvg-id="fb-tv" tvg-name="FB TV" group-title="Fener, Fenerbahçe, Spor" tvg-logo="https://dsmart-static-v2.ercdn.net/content/g/fi/13391/Thumbnail.png",FB TV
+#EXTINF:-1 tvg-id="fb-tv" tvg-name="FB TV" group-title="Spor" tvg-logo="https://dsmart-static-v2.ercdn.net/content/g/fi/13391/Thumbnail.png",FB TV
 http://sultanweb.info/LetsGO.php?ID=13391
-#EXTINF:-1 tvg-id="sports-tv" tvg-name="Sports TV" group-title="SPORTS TV" tvg-logo="https://dsmart-static-v2.ercdn.net/content/S/IP/11910/Thumbnail.png",Sports TV
+#EXTINF:-1 tvg-id="sports-tv" tvg-name="Sports TV" group-title="Spor" tvg-logo="https://dsmart-static-v2.ercdn.net/content/S/IP/11910/Thumbnail.png",Sports TV
 http://sultanweb.info/LetsGO.php?ID=11910
-#EXTINF:-1 tvg-id="trt-spor" tvg-name="TRT Spor" group-title="TRT Spor" tvg-logo="https://dsmart-static-v2.ercdn.net/content/l/MK/11888/Thumbnail.png",TRT Spor
+#EXTINF:-1 tvg-id="trt-spor" tvg-name="TRT Spor" group-title="Spor" tvg-logo="https://dsmart-static-v2.ercdn.net/content/l/MK/11888/Thumbnail.png",TRT Spor
 http://sultanweb.info/LetsGO.php?ID=11888
-#EXTINF:-1 tvg-id="trt-spor-yildiz" tvg-name="Trt Spor Yıldız" group-title="TRT Spor Yıldız" tvg-logo="https://dsmart-static-v2.ercdn.net/content/h/NK/15953/Thumbnail.png",Trt Spor Yıldız
+#EXTINF:-1 tvg-id="trt-spor-yildiz" tvg-name="Trt Spor Yıldız" group-title="Spor" tvg-logo="https://dsmart-static-v2.ercdn.net/content/h/NK/15953/Thumbnail.png",Trt Spor Yıldız
 http://sultanweb.info/LetsGO.php?ID=15953
-#EXTINF:-1 tvg-id="tv-8-5" tvg-name="TV 8,5" group-title="TV8, 8.5 , TV 8.5" tvg-logo="https://dsmart-static-v2.ercdn.net/content/j/3s/13867/Thumbnail.png",TV 8,5
+#EXTINF:-1 tvg-id="tv-8-5" tvg-name="TV 8,5" group-title="Ulusal" tvg-logo="https://dsmart-static-v2.ercdn.net/content/j/3s/13867/Thumbnail.png",TV 8,5
 http://sultanweb.info/LetsGO.php?ID=13867
-#EXTINF:-1 tvg-id="szc-tv" tvg-name="SZC TV" group-title="scz, sözcü, ulusal, haber" tvg-logo="https://dsmart-static-v2.ercdn.net/content/I/XZ/54352/Thumbnail.png",SZC TV
+#EXTINF:-1 tvg-id="szc-tv" tvg-name="SZC TV" group-title="Haber" tvg-logo="https://dsmart-static-v2.ercdn.net/content/I/XZ/54352/Thumbnail.png",SZC TV
 http://sultanweb.info/LetsGO.php?ID=54352
-#EXTINF:-1 tvg-id="showmax" tvg-name="ShowMax" group-title="ShowMax" tvg-logo="https://dsmart-static-v2.ercdn.net/content/f/np/13872/Thumbnail.png",ShowMax
+#EXTINF:-1 tvg-id="showmax" tvg-name="ShowMax" group-title="Ulusal" tvg-logo="https://dsmart-static-v2.ercdn.net/content/f/np/13872/Thumbnail.png",ShowMax
 http://sultanweb.info/LetsGO.php?ID=13872
-#EXTINF:-1 tvg-id="lider-haber" tvg-name="Lider Haber" group-title="Lider Haber" tvg-logo="https://dsmart-static-v2.ercdn.net/content/q/xd/100989/Thumbnail.png",Lider Haber
+#EXTINF:-1 tvg-id="lider-haber" tvg-name="Lider Haber" group-title="Haber" tvg-logo="https://dsmart-static-v2.ercdn.net/content/q/xd/100989/Thumbnail.png",Lider Haber
 http://sultanweb.info/LetsGO.php?ID=100989
 #EXTINF:-1 tvg-id="bi-kanal" tvg-name="Bi Kanal" group-title="Haber" tvg-logo="https://dsmart-static-v2.ercdn.net/content/H/00/73067/Thumbnail.png",Bi Kanal
 http://sultanweb.info/LetsGO.php?ID=73067
 #EXTINF:-1 tvg-id="akit" tvg-name="Akit" group-title="Haber" tvg-logo="https://dsmart-static-v2.ercdn.net/content/E/lr/13378/Thumbnail.png",Akit
 http://sultanweb.info/LetsGO.php?ID=13378
-#EXTINF:-1 tvg-id="diyanet-tv" tvg-name="Diyanet Tv" group-title="Diyanet Tv" tvg-logo="https://dsmart-static-v2.ercdn.net/content/N/ZR/103646/Poster.png",Diyanet Tv
+#EXTINF:-1 tvg-id="diyanet-tv" tvg-name="Diyanet Tv" group-title="Diyanet" tvg-logo="https://dsmart-static-v2.ercdn.net/content/N/ZR/103646/Poster.png",Diyanet Tv
 http://sultanweb.info/LetsGO.php?ID=103646
 #EXTINF:-1 tvg-id="trt-2" tvg-name="TRT 2" group-title="Haber" tvg-logo="https://dsmart-static-v2.ercdn.net/content/C/kv/13373/Thumbnail.png",TRT 2
 http://sultanweb.info/LetsGO.php?ID=13373
-#EXTINF:-1 tvg-id="trt-muzik" tvg-name="TRT Müzik" group-title="Müzik, Music" tvg-logo="https://dsmart-static-v2.ercdn.net/content/0/IE/13382/Thumbnail.png",TRT Müzik
+#EXTINF:-1 tvg-id="trt-muzik" tvg-name="TRT Müzik" group-title="Müzik" tvg-logo="https://dsmart-static-v2.ercdn.net/content/0/IE/13382/Thumbnail.png",TRT Müzik
 http://sultanweb.info/LetsGO.php?ID=13382
-#EXTINF:-1 tvg-id="dream-tv" tvg-name="Dream TV" group-title="Müzik, Music" tvg-logo="https://dsmart-static-v2.ercdn.net/content/l/IR/13524/Thumbnail.png",Dream TV
+#EXTINF:-1 tvg-id="dream-tv" tvg-name="Dream TV" group-title="Müzik" tvg-logo="https://dsmart-static-v2.ercdn.net/content/l/IR/13524/Thumbnail.png",Dream TV
 http://sultanweb.info/LetsGO.php?ID=13524
-#EXTINF:-1 tvg-id="dream-turk" tvg-name="Dream Türk" group-title="Müzik, Music" tvg-logo="https://dsmart-static-v2.ercdn.net/content/u/4w/13361/Thumbnail.png",Dream Türk
+#EXTINF:-1 tvg-id="dream-turk" tvg-name="Dream Türk" group-title="Müzik" tvg-logo="https://dsmart-static-v2.ercdn.net/content/u/4w/13361/Thumbnail.png",Dream Türk
 http://sultanweb.info/LetsGO.php?ID=13361
-#EXTINF:-1 tvg-id="power-turk" tvg-name="Power Türk" group-title="Müzik, Music" tvg-logo="https://dsmart-static-v2.ercdn.net/content/I/9w/13573/Thumbnail.png",Power Türk
+#EXTINF:-1 tvg-id="power-turk" tvg-name="Power Türk" group-title="Müzik" tvg-logo="https://dsmart-static-v2.ercdn.net/content/I/9w/13573/Thumbnail.png",Power Türk
 http://sultanweb.info/LetsGO.php?ID=13573
-#EXTINF:-1 tvg-id="power-tv" tvg-name="Power TV" group-title="Müzik, Music" tvg-logo="https://dsmart-static-v2.ercdn.net/content/l/qg/13574/Thumbnail.png",Power TV
+#EXTINF:-1 tvg-id="power-tv" tvg-name="Power TV" group-title="Müzik" tvg-logo="https://dsmart-static-v2.ercdn.net/content/l/qg/13574/Thumbnail.png",Power TV
 http://sultanweb.info/LetsGO.php?ID=13574
-#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" group-title="Çocuk, Çizgi Film, Cocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/c/_s/13870/Thumbnail.png",Cartoon Network
+#EXTINF:-1 tvg-id="cartoon-network" tvg-name="Cartoon Network" group-title="Çocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/c/_s/13870/Thumbnail.png",Cartoon Network
 http://sultanweb.info/LetsGO.php?ID=13870
-#EXTINF:-1 tvg-id="cocuk-smart" tvg-name="Çocuk Smart" group-title="Çocuk, Çizgi Film, Cocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/_/-b/11912/Thumbnail.png",Çocuk Smart
+#EXTINF:-1 tvg-id="cocuk-smart" tvg-name="Çocuk Smart" group-title="Çocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/_/-b/11912/Thumbnail.png",Çocuk Smart
 http://sultanweb.info/LetsGO.php?ID=11912
-#EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" group-title="Çocuk, Çizgi Film, Cocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/9/Bn/13518/Thumbnail.png",Cartoonito
+#EXTINF:-1 tvg-id="cartoonito" tvg-name="Cartoonito" group-title="Çocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/9/Bn/13518/Thumbnail.png",Cartoonito
 http://sultanweb.info/LetsGO.php?ID=13518
-#EXTINF:-1 tvg-id="baby-tv" tvg-name="Baby TV" group-title="Çocuk, Çizgi Film, Cocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/V/vi/11890/Thumbnail.png",Baby TV
+#EXTINF:-1 tvg-id="baby-tv" tvg-name="Baby TV" group-title="Çocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/V/vi/11890/Thumbnail.png",Baby TV
 http://sultanweb.info/LetsGO.php?ID=11890
-#EXTINF:-1 tvg-id="minika-go" tvg-name="Minika GO" group-title="Çocuk, Çizgi Film, Cocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/I/WS/13404/Thumbnail.png",Minika GO
+#EXTINF:-1 tvg-id="minika-go" tvg-name="Minika GO" group-title="Çocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/I/WS/13404/Thumbnail.png",Minika GO
 http://sultanweb.info/LetsGO.php?ID=13404
-#EXTINF:-1 tvg-id="trt-cocuk" tvg-name="TRT Çocuk" group-title="Çocuk, Çizgi Film, Cocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/L/_2/13369/Thumbnail.png",TRT Çocuk
+#EXTINF:-1 tvg-id="trt-cocuk" tvg-name="TRT Çocuk" group-title="Çocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/L/_2/13369/Thumbnail.png",TRT Çocuk
 http://sultanweb.info/LetsGO.php?ID=13369
-#EXTINF:-1 tvg-id="trt-diyanet-cocuk" tvg-name="TRT Diyanet Çocuk" group-title="TRT Diyanet Çocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/-/6Y/103647/Poster.png",TRT Diyanet Çocuk
+#EXTINF:-1 tvg-id="trt-diyanet-cocuk" tvg-name="TRT Diyanet Çocuk" group-title="Çocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/-/6Y/103647/Poster.png",TRT Diyanet Çocuk
 http://sultanweb.info/LetsGO.php?ID=103647
-#EXTINF:-1 tvg-id="da-vinci-learning" tvg-name="Da Vinci Learning" group-title="Çocuk, Çizgi Film, Cocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/r/Qh/11907/Thumbnail.png",Da Vinci Learning
+#EXTINF:-1 tvg-id="da-vinci-learning" tvg-name="Da Vinci Learning" group-title="Çocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/r/Qh/11907/Thumbnail.png",Da Vinci Learning
 http://sultanweb.info/LetsGO.php?ID=11907
-#EXTINF:-1 tvg-id="moonbug" tvg-name="Moonbug" group-title="Çocuk, Çizgi Film, Cocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/0/xE/70184/Thumbnail.png",Moonbug
+#EXTINF:-1 tvg-id="moonbug" tvg-name="Moonbug" group-title="Çocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/0/xE/70184/Thumbnail.png",Moonbug
 http://sultanweb.info/LetsGO.php?ID=70184
-#EXTINF:-1 tvg-id="disney-junior" tvg-name="Disney Junior" group-title="Çocuk, Çizgi Film, Cocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/n/ct/22903/Thumbnail.png",Disney Junior
+#EXTINF:-1 tvg-id="disney-junior" tvg-name="Disney Junior" group-title="Çocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/n/ct/22903/Thumbnail.png",Disney Junior
 http://sultanweb.info/LetsGO.php?ID=22903
-#EXTINF:-1 tvg-id="minika-cocuk" tvg-name="Minika Çocuk" group-title="Çocuk, Çizgi Film, Cocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/2/Q2/13402/Thumbnail.png",Minika Çocuk
+#EXTINF:-1 tvg-id="minika-cocuk" tvg-name="Minika Çocuk" group-title="Çocuk" tvg-logo="https://dsmart-static-v2.ercdn.net/content/2/Q2/13402/Thumbnail.png",Minika Çocuk
 http://sultanweb.info/LetsGO.php?ID=13402
 #EXTINF:-1 tvg-id="azoomee" tvg-name="Azoomee" group-title="Azoomee" tvg-logo="https://dsmart-static-v2.ercdn.net/content/-/q4/14484/Thumbnail.png",Azoomee
 http://sultanweb.info/LetsGO.php?ID=14484
-#EXTINF:-1 tvg-id="rt-international" tvg-name="RT International" group-title="Yabancı, Haber, Rusya" tvg-logo="https://dsmart-static-v2.ercdn.net/content/V/CW/106947/Thumbnail.png",RT International
+#EXTINF:-1 tvg-id="rt-international" tvg-name="RT International" group-title="Yabancı" tvg-logo="https://dsmart-static-v2.ercdn.net/content/V/CW/106947/Thumbnail.png",RT International
 http://sultanweb.info/LetsGO.php?ID=106947
 #EXTINF:-1 tvg-id="luys-tv" tvg-name="Luys TV" group-title="Luys TV" tvg-logo="https://dsmart-static-v2.ercdn.net/content/x/-N/41259/Thumbnail.png",Luys TV
 http://sultanweb.info/LetsGO.php?ID=41259
 #EXTINF:-1 tvg-id="tv-264" tvg-name="TV 264" group-title="Haber" tvg-logo="https://dsmart-static-v2.ercdn.net/content/E/rf/54954/Thumbnail.png",TV 264
 http://sultanweb.info/LetsGO.php?ID=54954
-#EXTINF:-1 tvg-id="halk-tv" tvg-name="Halk TV" group-title="Halk TV" tvg-logo="https://dsmart-static-v2.ercdn.net/content/S/_q/13566/Thumbnail.png",Halk TV
+#EXTINF:-1 tvg-id="halk-tv" tvg-name="Halk TV" group-title="Haber" tvg-logo="https://dsmart-static-v2.ercdn.net/content/S/_q/13566/Thumbnail.png",Halk TV
 http://sultanweb.info/LetsGO.php?ID=13566
 #EXTINF:-1 tvg-id="tele-1" tvg-name="Tele 1" group-title="Haber" tvg-logo="https://dsmart-static-v2.ercdn.net/content/z/c_/13569/Thumbnail.png",Tele 1
 http://sultanweb.info/LetsGO.php?ID=13569
-#EXTINF:-1 tvg-id="flash-haber" tvg-name="Flash Haber" group-title="Ulusal" tvg-logo="https://dsmart-static-v2.ercdn.net/content/9/aZ/46627/Thumbnail.png",Flash Haber
+#EXTINF:-1 tvg-id="flash-haber" tvg-name="Flash Haber" group-title="Haber" tvg-logo="https://dsmart-static-v2.ercdn.net/content/9/aZ/46627/Thumbnail.png",Flash Haber
 http://sultanweb.info/LetsGO.php?ID=46627
-#EXTINF:-1 tvg-id="a2" tvg-name="a2" group-title="A2 , ATV, Ulusal" tvg-logo="https://dsmart-static-v2.ercdn.net/content/U/q8/13412/Thumbnail.png",a2
+#EXTINF:-1 tvg-id="a2" tvg-name="a2" group-title="Ulusal" tvg-logo="https://dsmart-static-v2.ercdn.net/content/U/q8/13412/Thumbnail.png",a2
 http://sultanweb.info/LetsGO.php?ID=13412
-#EXTINF:-1 tvg-id="trt-kurdi" tvg-name="TRT Kurdi" group-title="Haber, Yabancı, News" tvg-logo="https://dsmart-static-v2.ercdn.net/content/4/uH/13380/Thumbnail.png",TRT Kurdi
+#EXTINF:-1 tvg-id="trt-kurdi" tvg-name="TRT Kurdi" group-title="Haber" tvg-logo="https://dsmart-static-v2.ercdn.net/content/4/uH/13380/Thumbnail.png",TRT Kurdi
 http://sultanweb.info/LetsGO.php?ID=13380
-#EXTINF:-1 tvg-id="trt-avaz" tvg-name="TRT Avaz" group-title="Haber, Yabancı, News" tvg-logo="https://dsmart-static-v2.ercdn.net/content/N/ix/13413/Thumbnail.png",TRT Avaz
+#EXTINF:-1 tvg-id="trt-avaz" tvg-name="TRT Avaz" group-title="Haber" tvg-logo="https://dsmart-static-v2.ercdn.net/content/N/ix/13413/Thumbnail.png",TRT Avaz
 http://sultanweb.info/LetsGO.php?ID=13413
-#EXTINF:-1 tvg-id="trt-el-arabiya" tvg-name="TRT El Arabiya" group-title="Haber, Yabancı, News" tvg-logo="https://dsmart-static-v2.ercdn.net/content/8/qW/13521/Thumbnail.png",TRT El Arabiya
+#EXTINF:-1 tvg-id="trt-el-arabiya" tvg-name="TRT El Arabiya" group-title="Haber" tvg-logo="https://dsmart-static-v2.ercdn.net/content/8/qW/13521/Thumbnail.png",TRT El Arabiya
 http://sultanweb.info/LetsGO.php?ID=13521
-#EXTINF:-1 tvg-id="nhk-ingilizce" tvg-name="NHK (İngilizce)" group-title="Yabancı, Haber, Japon" tvg-logo="https://dsmart-static-v2.ercdn.net/content/c/Po/13865/Thumbnail.png",NHK (İngilizce)
+#EXTINF:-1 tvg-id="nhk-ingilizce" tvg-name="NHK (İngilizce)" group-title="Haber" tvg-logo="https://dsmart-static-v2.ercdn.net/content/c/Po/13865/Thumbnail.png",NHK (İngilizce)
 http://sultanweb.info/LetsGO.php?ID=13865
