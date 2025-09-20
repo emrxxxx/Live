@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-name="STAR TV HD" group-title="Turkish" tvg-logo="https://www.ecanlitvizle.live/logo/star-tv-izle-1.png",STAR TV HD
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 http://online.karamehmet.workers.dev/?ID=https://www.ecanlitvizle.live/star-tv-canli-hd/
