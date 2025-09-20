@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-name="SUPERSPORT 1" group-title="ALBKANALE" tvg-logo="https://triangolomedia.com/portal/images/logo.svg",SUPERSPORT 1
 #EXTVLCOPT:http-referrer=https://triangolomedia.com/
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
