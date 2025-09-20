@@ -1,0 +1,502 @@
+#EXTINF:-1 tvg-id="bht1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/bht1.png" group-title="ZipZAP",BHT1
+http://zipzap.sultan-smart.workers.dev/?ID=bht1
+#EXTINF:-1 tvg-id="ftv" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/ftv.png" group-title="ZipZAP",Federalna TV
+http://zipzap.sultan-smart.workers.dev/?ID=ftv
+#EXTINF:-1 tvg-id="rtrs" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtrs.png" group-title="ZipZAP",RTRS
+http://zipzap.sultan-smart.workers.dev/?ID=rtrs
+#EXTINF:-1 tvg-id="tv_zenica" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tv_zenica.png" group-title="ZipZAP",TV Zenica
+http://zipzap.sultan-smart.workers.dev/?ID=tv_zenica
+#EXTINF:-1 tvg-id="obn" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/obn.png" group-title="ZipZAP",OBN
+http://zipzap.sultan-smart.workers.dev/?ID=obn
+#EXTINF:-1 tvg-id="hayat" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hayat.png" group-title="ZipZAP",Hayat
+http://zipzap.sultan-smart.workers.dev/?ID=hayat
+#EXTINF:-1 tvg-id="hayat2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hayat2.png" group-title="ZipZAP",Hayat2
+http://zipzap.sultan-smart.workers.dev/?ID=hayat2
+#EXTINF:-1 tvg-id="nova_bh" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/nova_bh.png" group-title="ZipZAP",Nova BH
+http://zipzap.sultan-smart.workers.dev/?ID=nova_bh
+#EXTINF:-1 tvg-id="face" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/face.png" group-title="ZipZAP",Face TV
+http://zipzap.sultan-smart.workers.dev/?ID=face
+#EXTINF:-1 tvg-id="pink_bh" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_bh.png" group-title="ZipZAP",Pink BH
+http://zipzap.sultan-smart.workers.dev/?ID=pink_bh
+#EXTINF:-1 tvg-id="bn_tv" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/bn_tv.png" group-title="ZipZAP",BN
+http://zipzap.sultan-smart.workers.dev/?ID=bn_tv
+#EXTINF:-1 tvg-id="bn_tv2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/bn_tv2.png" group-title="ZipZAP",BN 2
+http://zipzap.sultan-smart.workers.dev/?ID=bn_tv2
+#EXTINF:-1 tvg-id="alfa_tv" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/alfa_tv.png" group-title="ZipZAP",Alfa TV
+http://zipzap.sultan-smart.workers.dev/?ID=alfa_tv
+#EXTINF:-1 tvg-id="o_kanal" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/o_kanal.png" group-title="ZipZAP",O Kanal
+http://zipzap.sultan-smart.workers.dev/?ID=o_kanal
+#EXTINF:-1 tvg-id="tvsa" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tvsa.png" group-title="ZipZAP",TV Sarajevo
+http://zipzap.sultan-smart.workers.dev/?ID=tvsa
+#EXTINF:-1 tvg-id="vogosca" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/vogosca.png" group-title="ZipZAP",Vogošća
+http://zipzap.sultan-smart.workers.dev/?ID=vogosca
+#EXTINF:-1 tvg-id="visoko" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/visoko.png" group-title="ZipZAP",Visoko
+http://zipzap.sultan-smart.workers.dev/?ID=visoko
+#EXTINF:-1 tvg-id="smart" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/smart.png" group-title="ZipZAP",Smart TV
+http://zipzap.sultan-smart.workers.dev/?ID=smart
+#EXTINF:-1 tvg-id="usk" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/usk.png" group-title="ZipZAP",USK
+http://zipzap.sultan-smart.workers.dev/?ID=usk
+#EXTINF:-1 tvg-id="lukavac" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/lukavac.png" group-title="ZipZAP",Lukavac
+http://zipzap.sultan-smart.workers.dev/?ID=lukavac
+#EXTINF:-1 tvg-id="zivinice" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/zivinice.png" group-title="ZipZAP",RTV Živinice
+http://zipzap.sultan-smart.workers.dev/?ID=zivinice
+#EXTINF:-1 tvg-id="bugojno" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/bugojno.png" group-title="ZipZAP",Bugojno
+http://zipzap.sultan-smart.workers.dev/?ID=bugojno
+#EXTINF:-1 tvg-id="tvtk" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tvtk.png" group-title="ZipZAP",TK
+http://zipzap.sultan-smart.workers.dev/?ID=tvtk
+#EXTINF:-1 tvg-id="maglaj" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/maglaj.png" group-title="ZipZAP",Maglaj
+http://zipzap.sultan-smart.workers.dev/?ID=maglaj
+#EXTINF:-1 tvg-id="jata" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/jata.png" group-title="ZipZAP",Jata
+http://zipzap.sultan-smart.workers.dev/?ID=jata
+#EXTINF:-1 tvg-id="kanal6" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/kanal6.png" group-title="ZipZAP",Kanal 6
+http://zipzap.sultan-smart.workers.dev/?ID=kanal6
+#EXTINF:-1 tvg-id="hema" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hema.png" group-title="ZipZAP",Hema
+http://zipzap.sultan-smart.workers.dev/?ID=hema
+#EXTINF:-1 tvg-id="hit_tv" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hit_tv.png" group-title="ZipZAP",HIT
+http://zipzap.sultan-smart.workers.dev/?ID=hit_tv
+#EXTINF:-1 tvg-id="tatabrada_tv" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tatabrada_tv.png" group-title="ZipZAP",TataBrada.TV
+http://zipzap.sultan-smart.workers.dev/?ID=tatabrada_tv
+#EXTINF:-1 tvg-id="dobra_tv" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/dobra_tv.png" group-title="ZipZAP",Dobra TV
+http://zipzap.sultan-smart.workers.dev/?ID=dobra_tv
+#EXTINF:-1 tvg-id="neon" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/neon.png" group-title="ZipZAP",Neon
+http://zipzap.sultan-smart.workers.dev/?ID=neon
+#EXTINF:-1 tvg-id="slon_extra" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/slon_extra.png" group-title="ZipZAP",Slon Extra
+http://zipzap.sultan-smart.workers.dev/?ID=slon_extra
+#EXTINF:-1 tvg-id="atv" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/atv.png" group-title="ZipZAP",ATV
+http://zipzap.sultan-smart.workers.dev/?ID=atv
+#EXTINF:-1 tvg-id="k3" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/k3.png" group-title="ZipZAP",K3
+http://zipzap.sultan-smart.workers.dev/?ID=k3
+#EXTINF:-1 tvg-id="rtv_is" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtv_is.png" group-title="ZipZAP",Istočno Sarajevo
+http://zipzap.sultan-smart.workers.dev/?ID=rtv_is
+#EXTINF:-1 tvg-id="rtrs_plus" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtrs_plus.png" group-title="ZipZAP",RTRS Plus
+http://zipzap.sultan-smart.workers.dev/?ID=rtrs_plus
+#EXTINF:-1 tvg-id="herceg_tv" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/herceg_tv.png" group-title="ZipZAP",Herceg TV
+http://zipzap.sultan-smart.workers.dev/?ID=herceg_tv
+#EXTINF:-1 tvg-id="tv_m" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tv_m.png" group-title="ZipZAP",TV M
+http://zipzap.sultan-smart.workers.dev/?ID=tv_m
+#EXTINF:-1 tvg-id="ntvic_kakanj" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/ntvic_kakanj.png" group-title="ZipZAP",NTV IC
+http://zipzap.sultan-smart.workers.dev/?ID=ntvic_kakanj
+#EXTINF:-1 tvg-id="mtv_igman" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/mtv_igman.png" group-title="ZipZAP",MTV Igman
+http://zipzap.sultan-smart.workers.dev/?ID=mtv_igman
+#EXTINF:-1 tvg-id="tv5" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tv5.png" group-title="ZipZAP",Televizija 5
+http://zipzap.sultan-smart.workers.dev/?ID=tv5
+#EXTINF:-1 tvg-id="bir" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/bir.png" group-title="ZipZAP",BIR TV
+http://zipzap.sultan-smart.workers.dev/?ID=bir
+#EXTINF:-1 tvg-id="saudi_quran" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/saudi_quran.png" group-title="ZipZAP",Saudi Quran
+http://zipzap.sultan-smart.workers.dev/?ID=saudi_quran
+#EXTINF:-1 tvg-id="podrinje" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/podrinje.png" group-title="ZipZAP",Podrinje
+http://zipzap.sultan-smart.workers.dev/?ID=podrinje
+#EXTINF:-1 tvg-id="sandzak_tv" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/sandzak_tv.png" group-title="ZipZAP",Sandžak TV
+http://zipzap.sultan-smart.workers.dev/?ID=sandzak_tv
+#EXTINF:-1 tvg-id="novi_pazar_stream_p8" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/novi_pazar_stream_p8.png" group-title="ZipZAP",Novi Pazar
+http://zipzap.sultan-smart.workers.dev/?ID=novi_pazar_stream_p8
+#EXTINF:-1 tvg-id="super_media" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/super_media.png" group-title="ZipZAP",Super Media TV
+http://zipzap.sultan-smart.workers.dev/?ID=super_media
+#EXTINF:-1 tvg-id="hb" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hb.png" group-title="ZipZAP",RTV HB
+http://zipzap.sultan-smart.workers.dev/?ID=hb
+#EXTINF:-1 tvg-id="hrt1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hrt1.png" group-title="ZipZAP",HRT1
+http://zipzap.sultan-smart.workers.dev/?ID=hrt1
+#EXTINF:-1 tvg-id="hrt2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hrt2.png" group-title="ZipZAP",HRT2
+http://zipzap.sultan-smart.workers.dev/?ID=hrt2
+#EXTINF:-1 tvg-id="hrt3" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hrt3.png" group-title="ZipZAP",HRT3
+http://zipzap.sultan-smart.workers.dev/?ID=hrt3
+#EXTINF:-1 tvg-id="hrt4" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hrt4.png" group-title="ZipZAP",HRT4
+http://zipzap.sultan-smart.workers.dev/?ID=hrt4
+#EXTINF:-1 tvg-id="nova_hr" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/nova_hr.png" group-title="ZipZAP",Nova
+http://zipzap.sultan-smart.workers.dev/?ID=nova_hr
+#EXTINF:-1 tvg-id="doma" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/doma.png" group-title="ZipZAP",Doma
+http://zipzap.sultan-smart.workers.dev/?ID=doma
+#EXTINF:-1 tvg-id="rtl" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtl.png" group-title="ZipZAP",RTL
+http://zipzap.sultan-smart.workers.dev/?ID=rtl
+#EXTINF:-1 tvg-id="rtl2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtl2.png" group-title="ZipZAP",RTL2
+http://zipzap.sultan-smart.workers.dev/?ID=rtl2
+#EXTINF:-1 tvg-id="z1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/z1.png" group-title="ZipZAP",Z1
+http://zipzap.sultan-smart.workers.dev/?ID=z1
+#EXTINF:-1 tvg-id="libertas_tv" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/libertas_tv.png" group-title="ZipZAP",Libertas TV
+http://zipzap.sultan-smart.workers.dev/?ID=libertas_tv
+#EXTINF:-1 tvg-id="jadran_tv" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/jadran_tv.png" group-title="ZipZAP",Jadran TV
+http://zipzap.sultan-smart.workers.dev/?ID=jadran_tv
+#EXTINF:-1 tvg-id="zapad_tv" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/zapad_tv.png" group-title="ZipZAP",Zapad TV
+http://zipzap.sultan-smart.workers.dev/?ID=zapad_tv
+#EXTINF:-1 tvg-id="pink_m" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_m.png" group-title="ZipZAP",Pink M
+http://zipzap.sultan-smart.workers.dev/?ID=pink_m
+#EXTINF:-1 tvg-id="mne" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/mne.png" group-title="ZipZAP",MNE
+http://zipzap.sultan-smart.workers.dev/?ID=mne
+#EXTINF:-1 tvg-id="tvcg1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tvcg1.png" group-title="ZipZAP",TVCG1
+http://zipzap.sultan-smart.workers.dev/?ID=tvcg1
+#EXTINF:-1 tvg-id="tvcg2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tvcg2.png" group-title="ZipZAP",TVCG2
+http://zipzap.sultan-smart.workers.dev/?ID=tvcg2
+#EXTINF:-1 tvg-id="tvcg3" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tvcg3.png" group-title="ZipZAP",TVCG3
+http://zipzap.sultan-smart.workers.dev/?ID=tvcg3
+#EXTINF:-1 tvg-id="pink_sr" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_sr.png" group-title="ZipZAP",Pink
+http://zipzap.sultan-smart.workers.dev/?ID=pink_sr
+#EXTINF:-1 tvg-id="pink_plus" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_plus.png" group-title="ZipZAP",Pink Plus
+http://zipzap.sultan-smart.workers.dev/?ID=pink_plus
+#EXTINF:-1 tvg-id="pink_extra" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_extra.png" group-title="ZipZAP",Pink Extra
+http://zipzap.sultan-smart.workers.dev/?ID=pink_extra
+#EXTINF:-1 tvg-id="vesti" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/vesti.png" group-title="ZipZAP",Vesti
+http://zipzap.sultan-smart.workers.dev/?ID=vesti
+#EXTINF:-1 tvg-id="narodna" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/narodna.png" group-title="ZipZAP",Narodna TV
+http://zipzap.sultan-smart.workers.dev/?ID=narodna
+#EXTINF:-1 tvg-id="red" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/red.png" group-title="ZipZAP",RED
+http://zipzap.sultan-smart.workers.dev/?ID=red
+#EXTINF:-1 tvg-id="rts1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rts1.png" group-title="ZipZAP",RTS1
+http://zipzap.sultan-smart.workers.dev/?ID=rts1
+#EXTINF:-1 tvg-id="rts2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rts2.png" group-title="ZipZAP",RTS2
+http://zipzap.sultan-smart.workers.dev/?ID=rts2
+#EXTINF:-1 tvg-id="rts_svet" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rts_svet.png" group-title="ZipZAP",RTS Svet
+http://zipzap.sultan-smart.workers.dev/?ID=rts_svet
+#EXTINF:-1 tvg-id="rts_trezor" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rts_trezor.png" group-title="ZipZAP",RTS Trezor
+http://zipzap.sultan-smart.workers.dev/?ID=rts_trezor
+#EXTINF:-1 tvg-id="rtv1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtv1.png" group-title="ZipZAP",RTV1
+http://zipzap.sultan-smart.workers.dev/?ID=rtv1
+#EXTINF:-1 tvg-id="rtv2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtv2.png" group-title="ZipZAP",RTV2
+http://zipzap.sultan-smart.workers.dev/?ID=rtv2
+#EXTINF:-1 tvg-id="balkan_tv" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/balkan_tv.png" group-title="ZipZAP",Balkan TV
+http://zipzap.sultan-smart.workers.dev/?ID=balkan_tv
+#EXTINF:-1 tvg-id="tropik" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tropik.png" group-title="ZipZAP",Tropik TV
+http://zipzap.sultan-smart.workers.dev/?ID=tropik
+#EXTINF:-1 tvg-id="hayatovci" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hayatovci.png" group-title="ZipZAP",Hayatovci
+http://zipzap.sultan-smart.workers.dev/?ID=hayatovci
+#EXTINF:-1 tvg-id="tnt_kids" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/tnt_kids.png" group-title="ZipZAP",TNT Kids
+http://zipzap.sultan-smart.workers.dev/?ID=tnt_kids
+#EXTINF:-1 tvg-id="rtl_kockica" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtl_kockica.png" group-title="ZipZAP",RTL Kockica
+http://zipzap.sultan-smart.workers.dev/?ID=rtl_kockica
+#EXTINF:-1 tvg-id="nickelodeon" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/nickelodeon.png" group-title="ZipZAP",Nickelodeon
+http://zipzap.sultan-smart.workers.dev/?ID=nickelodeon
+#EXTINF:-1 tvg-id="nick_jr" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/nick_jr.png" group-title="ZipZAP",Nick Jr.
+http://zipzap.sultan-smart.workers.dev/?ID=nick_jr
+#EXTINF:-1 tvg-id="disney" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/disney.png" group-title="ZipZAP",Disney
+http://zipzap.sultan-smart.workers.dev/?ID=disney
+#EXTINF:-1 tvg-id="baby_tv" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/baby_tv.png" group-title="ZipZAP",Baby TV
+http://zipzap.sultan-smart.workers.dev/?ID=baby_tv
+#EXTINF:-1 tvg-id="minimax" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/minimax.png" group-title="ZipZAP",MiniMax
+http://zipzap.sultan-smart.workers.dev/?ID=minimax
+#EXTINF:-1 tvg-id="pink_kids" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_kids.png" group-title="ZipZAP",Pink Kids
+http://zipzap.sultan-smart.workers.dev/?ID=pink_kids
+#EXTINF:-1 tvg-id="pink_super_kids" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_super_kids.png" group-title="ZipZAP",Pink Super Kids
+http://zipzap.sultan-smart.workers.dev/?ID=pink_super_kids
+#EXTINF:-1 tvg-id="toggo_de" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/toggo_de.png" group-title="ZipZAP",Toggo
+http://zipzap.sultan-smart.workers.dev/?ID=toggo_de
+#EXTINF:-1 tvg-id="toggo_plus_de" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/toggo_plus_de.png" group-title="ZipZAP",Toggo Plus
+http://zipzap.sultan-smart.workers.dev/?ID=toggo_plus_de
+#EXTINF:-1 tvg-id="pink_family" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_family.png" group-title="ZipZAP",Pink Family
+http://zipzap.sultan-smart.workers.dev/?ID=pink_family
+#EXTINF:-1 tvg-id="rts_poletarac" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rts_poletarac.png" group-title="ZipZAP",RTS Poletarac
+http://zipzap.sultan-smart.workers.dev/?ID=rts_poletarac
+#EXTINF:-1 tvg-id="animal_planet" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/animal_planet.png" group-title="ZipZAP",Animal Planet
+http://zipzap.sultan-smart.workers.dev/?ID=animal_planet
+#EXTINF:-1 tvg-id="discovery" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/discovery.png" group-title="ZipZAP",Discovery
+http://zipzap.sultan-smart.workers.dev/?ID=discovery
+#EXTINF:-1 tvg-id="ngc" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/ngc.png" group-title="ZipZAP",National Geographic
+http://zipzap.sultan-smart.workers.dev/?ID=ngc
+#EXTINF:-1 tvg-id="ngc_wild" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/ngc_wild.png" group-title="ZipZAP",National Geographic Wild
+http://zipzap.sultan-smart.workers.dev/?ID=ngc_wild
+#EXTINF:-1 tvg-id="viasat_history" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/viasat_history.png" group-title="ZipZAP",Viasat History
+http://zipzap.sultan-smart.workers.dev/?ID=viasat_history
+#EXTINF:-1 tvg-id="viasat_explorer" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/viasat_explorer.png" group-title="ZipZAP",Viasat Explorer
+http://zipzap.sultan-smart.workers.dev/?ID=viasat_explorer
+#EXTINF:-1 tvg-id="viasat_nature" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/viasat_nature.png" group-title="ZipZAP",Viasat Nature
+http://zipzap.sultan-smart.workers.dev/?ID=viasat_nature
+#EXTINF:-1 tvg-id="rtl_living" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtl_living.png" group-title="ZipZAP",RTL Living
+http://zipzap.sultan-smart.workers.dev/?ID=rtl_living
+#EXTINF:-1 tvg-id="pink_kuvar" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_kuvar.png" group-title="ZipZAP",Pink Kuvar
+http://zipzap.sultan-smart.workers.dev/?ID=pink_kuvar
+#EXTINF:-1 tvg-id="pink_pedia" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_pedia.png" group-title="ZipZAP",Pink Pedia
+http://zipzap.sultan-smart.workers.dev/?ID=pink_pedia
+#EXTINF:-1 tvg-id="pink_world" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_world.png" group-title="ZipZAP",Pink World
+http://zipzap.sultan-smart.workers.dev/?ID=pink_world
+#EXTINF:-1 tvg-id="rts_zivot" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rts_zivot.png" group-title="ZipZAP",RTS Život
+http://zipzap.sultan-smart.workers.dev/?ID=rts_zivot
+#EXTINF:-1 tvg-id="star" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/star.png" group-title="ZipZAP",Star
+http://zipzap.sultan-smart.workers.dev/?ID=star
+#EXTINF:-1 tvg-id="star_movies" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/star_movies.png" group-title="ZipZAP",Star Movies
+http://zipzap.sultan-smart.workers.dev/?ID=star_movies
+#EXTINF:-1 tvg-id="star_crime" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/star_crime.png" group-title="ZipZAP",Star Crime
+http://zipzap.sultan-smart.workers.dev/?ID=star_crime
+#EXTINF:-1 tvg-id="star_life" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/star_life.png" group-title="ZipZAP",Star Life
+http://zipzap.sultan-smart.workers.dev/?ID=star_life
+#EXTINF:-1 tvg-id="cinestar1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/cinestar1.png" group-title="ZipZAP",CineStar1
+http://zipzap.sultan-smart.workers.dev/?ID=cinestar1
+#EXTINF:-1 tvg-id="cinestar2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/cinestar2.png" group-title="ZipZAP",CineStar2
+http://zipzap.sultan-smart.workers.dev/?ID=cinestar2
+#EXTINF:-1 tvg-id="cinestar_action" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/cinestar_action.png" group-title="ZipZAP",CineStar Action
+http://zipzap.sultan-smart.workers.dev/?ID=cinestar_action
+#EXTINF:-1 tvg-id="cinestar_fantasy" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/cinestar_fantasy.png" group-title="ZipZAP",CineStar Fantasy
+http://zipzap.sultan-smart.workers.dev/?ID=cinestar_fantasy
+#EXTINF:-1 tvg-id="pink_action" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_action.png" group-title="ZipZAP",Pink Action
+http://zipzap.sultan-smart.workers.dev/?ID=pink_action
+#EXTINF:-1 tvg-id="pink_thriller" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_thriller.png" group-title="ZipZAP",Pink Thriller
+http://zipzap.sultan-smart.workers.dev/?ID=pink_thriller
+#EXTINF:-1 tvg-id="pink_movies" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_movies.png" group-title="ZipZAP",Pink Movies
+http://zipzap.sultan-smart.workers.dev/?ID=pink_movies
+#EXTINF:-1 tvg-id="pink_premium" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_premium.png" group-title="ZipZAP",Pink Premium
+http://zipzap.sultan-smart.workers.dev/?ID=pink_premium
+#EXTINF:-1 tvg-id="pink_horror" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_horror.png" group-title="ZipZAP",Pink Horror
+http://zipzap.sultan-smart.workers.dev/?ID=pink_horror
+#EXTINF:-1 tvg-id="pink_scifi_fantasy" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_scifi_fantasy.png" group-title="ZipZAP",Pink SciFi & Fantasy
+http://zipzap.sultan-smart.workers.dev/?ID=pink_scifi_fantasy
+#EXTINF:-1 tvg-id="pink_crime_mistery" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_crime_mistery.png" group-title="ZipZAP",Pink Crime & Mistery
+http://zipzap.sultan-smart.workers.dev/?ID=pink_crime_mistery
+#EXTINF:-1 tvg-id="pink_world_cinema" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_world_cinema.png" group-title="ZipZAP",Pink World Cinema
+http://zipzap.sultan-smart.workers.dev/?ID=pink_world_cinema
+#EXTINF:-1 tvg-id="pink_classic" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_classic.png" group-title="ZipZAP",Pink Classic
+http://zipzap.sultan-smart.workers.dev/?ID=pink_classic
+#EXTINF:-1 tvg-id="pink_western" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_western.png" group-title="ZipZAP",Pink Western
+http://zipzap.sultan-smart.workers.dev/?ID=pink_western
+#EXTINF:-1 tvg-id="pink_romance" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_romance.png" group-title="ZipZAP",Pink Romance
+http://zipzap.sultan-smart.workers.dev/?ID=pink_romance
+#EXTINF:-1 tvg-id="pink_comedy" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_comedy.png" group-title="ZipZAP",Pink Comedy
+http://zipzap.sultan-smart.workers.dev/?ID=pink_comedy
+#EXTINF:-1 tvg-id="pink_soap" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_soap.png" group-title="ZipZAP",Pink Soap
+http://zipzap.sultan-smart.workers.dev/?ID=pink_soap
+#EXTINF:-1 tvg-id="pink_serije" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_serije.png" group-title="ZipZAP",Pink Serije
+http://zipzap.sultan-smart.workers.dev/?ID=pink_serije
+#EXTINF:-1 tvg-id="pink_film" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_film.png" group-title="ZipZAP",Pink Film
+http://zipzap.sultan-smart.workers.dev/?ID=pink_film
+#EXTINF:-1 tvg-id="klasik" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/klasik.png" group-title="ZipZAP",Klasik
+http://zipzap.sultan-smart.workers.dev/?ID=klasik
+#EXTINF:-1 tvg-id="rtl_crime" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtl_crime.png" group-title="ZipZAP",RTL Crime
+http://zipzap.sultan-smart.workers.dev/?ID=rtl_crime
+#EXTINF:-1 tvg-id="sehara_online" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/sehara_online.png" group-title="ZipZAP",Sehara Online
+http://zipzap.sultan-smart.workers.dev/?ID=sehara_online
+#EXTINF:-1 tvg-id="rts_drama" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rts_drama.png" group-title="ZipZAP",RTS Drama
+http://zipzap.sultan-smart.workers.dev/?ID=rts_drama
+#EXTINF:-1 tvg-id="esp1_sr" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/esp1_sr.png" group-title="ZipZAP",Eurosport 1
+http://zipzap.sultan-smart.workers.dev/?ID=esp1_sr
+#EXTINF:-1 tvg-id="esp2_sr" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/esp2_sr.png" group-title="ZipZAP",Eurosport 2
+http://zipzap.sultan-smart.workers.dev/?ID=esp2_sr
+#EXTINF:-1 tvg-id="arena1pr_sr" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena1pr_sr.png" group-title="ZipZAP",Arena 1 Premium
+http://zipzap.sultan-smart.workers.dev/?ID=arena1pr_sr
+#EXTINF:-1 tvg-id="arena2pr_sr" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena2pr_sr.png" group-title="ZipZAP",Arena 2 Premium
+http://zipzap.sultan-smart.workers.dev/?ID=arena2pr_sr
+#EXTINF:-1 tvg-id="arena3pr_sr" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena3pr_sr.png" group-title="ZipZAP",Arena 3 Premium
+http://zipzap.sultan-smart.workers.dev/?ID=arena3pr_sr
+#EXTINF:-1 tvg-id="arena1_bh" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena1_bh.png" group-title="ZipZAP",Arena Sport 1
+http://zipzap.sultan-smart.workers.dev/?ID=arena1_bh
+#EXTINF:-1 tvg-id="arena2_bh" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena2_bh.png" group-title="ZipZAP",Arena Sport 2
+http://zipzap.sultan-smart.workers.dev/?ID=arena2_bh
+#EXTINF:-1 tvg-id="arena3_bh" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena3_bh.png" group-title="ZipZAP",Arena Sport 3
+http://zipzap.sultan-smart.workers.dev/?ID=arena3_bh
+#EXTINF:-1 tvg-id="arena4_sr" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena4_sr.png" group-title="ZipZAP",Arena Sport 4
+http://zipzap.sultan-smart.workers.dev/?ID=arena4_sr
+#EXTINF:-1 tvg-id="arena5_sr" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena5_sr.png" group-title="ZipZAP",Arena Sport 5
+http://zipzap.sultan-smart.workers.dev/?ID=arena5_sr
+#EXTINF:-1 tvg-id="arena6_sr" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena6_sr.png" group-title="ZipZAP",Arena Sport 6
+http://zipzap.sultan-smart.workers.dev/?ID=arena6_sr
+#EXTINF:-1 tvg-id="arena1_hr" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena1_hr.png" group-title="ZipZAP",Arena Sport 1 Hr
+http://zipzap.sultan-smart.workers.dev/?ID=arena1_hr
+#EXTINF:-1 tvg-id="arena3_hr" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena3_hr.png" group-title="ZipZAP",Arena Sport 3 Hr
+http://zipzap.sultan-smart.workers.dev/?ID=arena3_hr
+#EXTINF:-1 tvg-id="arena1x2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena1x2.png" group-title="ZipZAP",Arena Sport 1x2
+http://zipzap.sultan-smart.workers.dev/?ID=arena1x2
+#EXTINF:-1 tvg-id="arena_esport" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena_esport.png" group-title="ZipZAP",Arena eSport
+http://zipzap.sultan-smart.workers.dev/?ID=arena_esport
+#EXTINF:-1 tvg-id="arena_fight" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/arena_fight.png" group-title="ZipZAP",Arena Fight
+http://zipzap.sultan-smart.workers.dev/?ID=arena_fight
+#EXTINF:-1 tvg-id="fight_network" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/fight_network.png" group-title="ZipZAP",Fight Network
+http://zipzap.sultan-smart.workers.dev/?ID=fight_network
+#EXTINF:-1 tvg-id="city_tv" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/city_tv.png" group-title="ZipZAP",City TV
+http://zipzap.sultan-smart.workers.dev/?ID=city_tv
+#EXTINF:-1 tvg-id="sportska" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/sportska.png" group-title="ZipZAP",Sportska
+http://zipzap.sultan-smart.workers.dev/?ID=sportska
+#EXTINF:-1 tvg-id="sos" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/sos.png" group-title="ZipZAP",SOS Kanal
+http://zipzap.sultan-smart.workers.dev/?ID=sos
+#EXTINF:-1 tvg-id="happy" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/happy.png" group-title="ZipZAP",Happy
+http://zipzap.sultan-smart.workers.dev/?ID=happy
+#EXTINF:-1 tvg-id="pink_reality" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_reality.png" group-title="ZipZAP",Pink Reality
+http://zipzap.sultan-smart.workers.dev/?ID=pink_reality
+#EXTINF:-1 tvg-id="lol" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/lol.png" group-title="ZipZAP",LOL
+http://zipzap.sultan-smart.workers.dev/?ID=lol
+#EXTINF:-1 tvg-id="haha" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/haha.png" group-title="ZipZAP",HAHA
+http://zipzap.sultan-smart.workers.dev/?ID=haha
+#EXTINF:-1 tvg-id="pink_zabava" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_zabava.png" group-title="ZipZAP",Pink Zabava
+http://zipzap.sultan-smart.workers.dev/?ID=pink_zabava
+#EXTINF:-1 tvg-id="pink_show" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_show.png" group-title="ZipZAP",Pink Show
+http://zipzap.sultan-smart.workers.dev/?ID=pink_show
+#EXTINF:-1 tvg-id="pink_style" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_style.png" group-title="ZipZAP",Pink Style
+http://zipzap.sultan-smart.workers.dev/?ID=pink_style
+#EXTINF:-1 tvg-id="pink_fashion" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_fashion.png" group-title="ZipZAP",Pink Fashion
+http://zipzap.sultan-smart.workers.dev/?ID=pink_fashion
+#EXTINF:-1 tvg-id="hayat_folk_box" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hayat_folk_box.png" group-title="ZipZAP",Hayat Folk Box
+http://zipzap.sultan-smart.workers.dev/?ID=hayat_folk_box
+#EXTINF:-1 tvg-id="hayat_music_box" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/hayat_music_box.png" group-title="ZipZAP",Hayat Music Box
+http://zipzap.sultan-smart.workers.dev/?ID=hayat_music_box
+#EXTINF:-1 tvg-id="sevdah_tv" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/sevdah_tv.png" group-title="ZipZAP",Sevdah TV
+http://zipzap.sultan-smart.workers.dev/?ID=sevdah_tv
+#EXTINF:-1 tvg-id="bn_music" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/bn_music.png" group-title="ZipZAP",BN Music
+http://zipzap.sultan-smart.workers.dev/?ID=bn_music
+#EXTINF:-1 tvg-id="izvorna" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/izvorna.png" group-title="ZipZAP",Izvorna TV
+http://zipzap.sultan-smart.workers.dev/?ID=izvorna
+#EXTINF:-1 tvg-id="glas_drine" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/glas_drine.png" group-title="ZipZAP",Glas Drine
+http://zipzap.sultan-smart.workers.dev/?ID=glas_drine
+#EXTINF:-1 tvg-id="sehara" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/sehara.png" group-title="ZipZAP",Sehara
+http://zipzap.sultan-smart.workers.dev/?ID=sehara
+#EXTINF:-1 tvg-id="prva_hercegovacka" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/prva_hercegovacka.png" group-title="ZipZAP",Prva Hercegovačka
+http://zipzap.sultan-smart.workers.dev/?ID=prva_hercegovacka
+#EXTINF:-1 tvg-id="otv_etno" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/otv_etno.png" group-title="ZipZAP",Valentino Etno
+http://zipzap.sultan-smart.workers.dev/?ID=otv_etno
+#EXTINF:-1 tvg-id="jugoton" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/jugoton.png" group-title="ZipZAP",Jugoton
+http://zipzap.sultan-smart.workers.dev/?ID=jugoton
+#EXTINF:-1 tvg-id="cmc" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/cmc.png" group-title="ZipZAP",CMC
+http://zipzap.sultan-smart.workers.dev/?ID=cmc
+#EXTINF:-1 tvg-id="muzzik_moba" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/muzzik_moba.png" group-title="ZipZAP",Moba
+http://zipzap.sultan-smart.workers.dev/?ID=muzzik_moba
+#EXTINF:-1 tvg-id="muzzik" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/muzzik.png" group-title="ZipZAP",Muzzik
+http://zipzap.sultan-smart.workers.dev/?ID=muzzik
+#EXTINF:-1 tvg-id="muzzik_pop_star" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/muzzik_pop_star.png" group-title="ZipZAP",Pop Star
+http://zipzap.sultan-smart.workers.dev/?ID=muzzik_pop_star
+#EXTINF:-1 tvg-id="muzzik_tiktak" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/muzzik_tiktak.png" group-title="ZipZAP",Tik Tak
+http://zipzap.sultan-smart.workers.dev/?ID=muzzik_tiktak
+#EXTINF:-1 tvg-id="muzzik_electro" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/muzzik_electro.png" group-title="ZipZAP",Electro
+http://zipzap.sultan-smart.workers.dev/?ID=muzzik_electro
+#EXTINF:-1 tvg-id="muzzik_flashback" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/muzzik_flashback.png" group-title="ZipZAP",FlashBack
+http://zipzap.sultan-smart.workers.dev/?ID=muzzik_flashback
+#EXTINF:-1 tvg-id="muzzik_wwm" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/muzzik_wwm.png" group-title="ZipZAP",WWM
+http://zipzap.sultan-smart.workers.dev/?ID=muzzik_wwm
+#EXTINF:-1 tvg-id="muzzik_jekka" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/muzzik_jekka.png" group-title="ZipZAP",Jeka
+http://zipzap.sultan-smart.workers.dev/?ID=muzzik_jekka
+#EXTINF:-1 tvg-id="muzzik_sense" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/muzzik_sense.png" group-title="ZipZAP",Sense
+http://zipzap.sultan-smart.workers.dev/?ID=muzzik_sense
+#EXTINF:-1 tvg-id="muzzik_zz" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/muzzik_zz.png" group-title="ZipZAP",ZZ TV
+http://zipzap.sultan-smart.workers.dev/?ID=muzzik_zz
+#EXTINF:-1 tvg-id="muzzik_rockroll" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/muzzik_rockroll.png" group-title="ZipZAP",Rock & Roll
+http://zipzap.sultan-smart.workers.dev/?ID=muzzik_rockroll
+#EXTINF:-1 tvg-id="bmc" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/bmc.png" group-title="ZipZAP",BMC
+http://zipzap.sultan-smart.workers.dev/?ID=bmc
+#EXTINF:-1 tvg-id="bmc_etno" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/bmc_etno.png" group-title="ZipZAP",BMC Etno
+http://zipzap.sultan-smart.workers.dev/?ID=bmc_etno
+#EXTINF:-1 tvg-id="mtv" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/mtv.png" group-title="ZipZAP",MTV
+http://zipzap.sultan-smart.workers.dev/?ID=mtv
+#EXTINF:-1 tvg-id="mtv_80s" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/mtv_80s.png" group-title="ZipZAP",MTV 80s
+http://zipzap.sultan-smart.workers.dev/?ID=mtv_80s
+#EXTINF:-1 tvg-id="bravo_music" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/bravo_music.png" group-title="ZipZAP",Bravo Music
+http://zipzap.sultan-smart.workers.dev/?ID=bravo_music
+#EXTINF:-1 tvg-id="pink_hits1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_hits1.png" group-title="ZipZAP",Pink Hits
+http://zipzap.sultan-smart.workers.dev/?ID=pink_hits1
+#EXTINF:-1 tvg-id="pink_hits2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_hits2.png" group-title="ZipZAP",Pink Hits 2
+http://zipzap.sultan-smart.workers.dev/?ID=pink_hits2
+#EXTINF:-1 tvg-id="pink_music1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_music1.png" group-title="ZipZAP",Pink Music
+http://zipzap.sultan-smart.workers.dev/?ID=pink_music1
+#EXTINF:-1 tvg-id="pink_music2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_music2.png" group-title="ZipZAP",Pink Music 2
+http://zipzap.sultan-smart.workers.dev/?ID=pink_music2
+#EXTINF:-1 tvg-id="pink_n_roll" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_n_roll.png" group-title="ZipZAP",Pink N Roll
+http://zipzap.sultan-smart.workers.dev/?ID=pink_n_roll
+#EXTINF:-1 tvg-id="pink_koncert" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_koncert.png" group-title="ZipZAP",Pink Koncert
+http://zipzap.sultan-smart.workers.dev/?ID=pink_koncert
+#EXTINF:-1 tvg-id="city_play" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/city_play.png" group-title="ZipZAP",City play
+http://zipzap.sultan-smart.workers.dev/?ID=city_play
+#EXTINF:-1 tvg-id="banovina" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/banovina.png" group-title="ZipZAP",Banovina
+http://zipzap.sultan-smart.workers.dev/?ID=banovina
+#EXTINF:-1 tvg-id="dm_sat" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/dm_sat.png" group-title="ZipZAP",DM Sat
+http://zipzap.sultan-smart.workers.dev/?ID=dm_sat
+#EXTINF:-1 tvg-id="pink_folk" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_folk.png" group-title="ZipZAP",Pink Folk
+http://zipzap.sultan-smart.workers.dev/?ID=pink_folk
+#EXTINF:-1 tvg-id="pink_folk2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pink_folk2.png" group-title="ZipZAP",Pink Folk 2
+http://zipzap.sultan-smart.workers.dev/?ID=pink_folk2
+#EXTINF:-1 tvg-id="kcn1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/kcn1.png" group-title="ZipZAP",KCN1
+http://zipzap.sultan-smart.workers.dev/?ID=kcn1
+#EXTINF:-1 tvg-id="kcn2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/kcn2.png" group-title="ZipZAP",K::CN 2 Music
+http://zipzap.sultan-smart.workers.dev/?ID=kcn2
+#EXTINF:-1 tvg-id="kcn3" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/kcn3.png" group-title="ZipZAP",K::CN 3 Svet+
+http://zipzap.sultan-smart.workers.dev/?ID=kcn3
+#EXTINF:-1 tvg-id="rts_muzika" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rts_muzika.png" group-title="ZipZAP",RTS Muzika
+http://zipzap.sultan-smart.workers.dev/?ID=rts_muzika
+#EXTINF:-1 tvg-id="rts_klasika" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rts_klasika.png" group-title="ZipZAP",RTS Klasika
+http://zipzap.sultan-smart.workers.dev/?ID=rts_klasika
+#EXTINF:-1 tvg-id="rts_kolo" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rts_kolo.png" group-title="ZipZAP",RTS Kolo
+http://zipzap.sultan-smart.workers.dev/?ID=rts_kolo
+#EXTINF:-1 tvg-id="rtv_puls" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtv_puls.png" group-title="ZipZAP",RTV Puls
+http://zipzap.sultan-smart.workers.dev/?ID=rtv_puls
+#EXTINF:-1 tvg-id="krajina" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/krajina.png" group-title="ZipZAP",Krajina
+http://zipzap.sultan-smart.workers.dev/?ID=krajina
+#EXTINF:-1 tvg-id="kristal" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/kristal.png" group-title="ZipZAP",Kristal
+http://zipzap.sultan-smart.workers.dev/?ID=kristal
+#EXTINF:-1 tvg-id="yu_planet" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/yu_planet.png" group-title="ZipZAP",Yu Planet
+http://zipzap.sultan-smart.workers.dev/?ID=yu_planet
+#EXTINF:-1 tvg-id="rtl_de" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtl_de.png" group-title="ZipZAP",RTL De
+http://zipzap.sultan-smart.workers.dev/?ID=rtl_de
+#EXTINF:-1 tvg-id="rtl2_de" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtl2_de.png" group-title="ZipZAP",RTL2 De
+http://zipzap.sultan-smart.workers.dev/?ID=rtl2_de
+#EXTINF:-1 tvg-id="rtl_nitro_de" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/rtl_nitro_de.png" group-title="ZipZAP",RTL Nitro
+http://zipzap.sultan-smart.workers.dev/?ID=rtl_nitro_de
+#EXTINF:-1 tvg-id="vox" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/vox.png" group-title="ZipZAP",VOX
+http://zipzap.sultan-smart.workers.dev/?ID=vox
+#EXTINF:-1 tvg-id="sat1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/sat1.png" group-title="ZipZAP",SAT.1
+http://zipzap.sultan-smart.workers.dev/?ID=sat1
+#EXTINF:-1 tvg-id="pro_sieben" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/pro_sieben.png" group-title="ZipZAP",Pro Sieben
+http://zipzap.sultan-smart.workers.dev/?ID=pro_sieben
+#EXTINF:-1 tvg-id="kabel1_de" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/kabel1_de.png" group-title="ZipZAP",Kabel Eins
+http://zipzap.sultan-smart.workers.dev/?ID=kabel1_de
+#EXTINF:-1 tvg-id="kabel1_docu_de" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/kabel1_docu_de.png" group-title="ZipZAP",Kabel Eins Doku
+http://zipzap.sultan-smart.workers.dev/?ID=kabel1_docu_de
+#EXTINF:-1 tvg-id="france24_en" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/france24_en.png" group-title="ZipZAP",France24 (In English)
+http://zipzap.sultan-smart.workers.dev/?ID=france24_en
+#EXTINF:-1 tvg-id="france24_fr" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/france24_fr.png" group-title="ZipZAP",France24 (In English)
+http://zipzap.sultan-smart.workers.dev/?ID=france24_fr
+#EXTINF:-1 tvg-id="radio_zenit" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_zenit.png" group-title="ZipZAP",Radio Zenit
+http://zipzap.sultan-smart.workers.dev/?ID=radio_zenit
+#EXTINF:-1 tvg-id="radio_extra" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_extra.png" group-title="ZipZAP",Radio eXtra
+http://zipzap.sultan-smart.workers.dev/?ID=radio_extra
+#EXTINF:-1 tvg-id="radio_tnt_zenica" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_tnt_zenica.png" group-title="ZipZAP",Radio TNT Zenica
+http://zipzap.sultan-smart.workers.dev/?ID=radio_tnt_zenica
+#EXTINF:-1 tvg-id="radio_narodni_zenica" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_narodni_zenica.png" group-title="ZipZAP",Radio Narodni Zenica
+http://zipzap.sultan-smart.workers.dev/?ID=radio_narodni_zenica
+#EXTINF:-1 tvg-id="radio_tnt_travnik" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_tnt_travnik.png" group-title="ZipZAP",Radio TNT Travnik
+http://zipzap.sultan-smart.workers.dev/?ID=radio_tnt_travnik
+#EXTINF:-1 tvg-id="radio_tnt_sarajevo" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_tnt_sarajevo.png" group-title="ZipZAP",Radio TNT Sarajevo
+http://zipzap.sultan-smart.workers.dev/?ID=radio_tnt_sarajevo
+#EXTINF:-1 tvg-id="radio_narodni_sarajevo" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_narodni_sarajevo.png" group-title="ZipZAP",Radio Narodni Sarajevo
+http://zipzap.sultan-smart.workers.dev/?ID=radio_narodni_sarajevo
+#EXTINF:-1 tvg-id="radio_tnt_tuzla" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_tnt_tuzla.png" group-title="ZipZAP",Radio TNT Tuzla
+http://zipzap.sultan-smart.workers.dev/?ID=radio_tnt_tuzla
+#EXTINF:-1 tvg-id="radio_narodni_tuzla" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_narodni_tuzla.png" group-title="ZipZAP",Radio Narodni Tuzla
+http://zipzap.sultan-smart.workers.dev/?ID=radio_narodni_tuzla
+#EXTINF:-1 tvg-id="radio_deejay_hr" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_deejay_hr.png" group-title="ZipZAP",Radio DeeJay
+http://zipzap.sultan-smart.workers.dev/?ID=radio_deejay_hr
+#EXTINF:-1 tvg-id="radio_bir" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_bir.png" group-title="ZipZAP",Radio BIR
+http://zipzap.sultan-smart.workers.dev/?ID=radio_bir
+#EXTINF:-1 tvg-id="radio_bhr1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_bhr1.png" group-title="ZipZAP",Radio BHR1
+http://zipzap.sultan-smart.workers.dev/?ID=radio_bhr1
+#EXTINF:-1 tvg-id="radio_rtrs" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_rtrs.png" group-title="ZipZAP",Radio RTRS
+http://zipzap.sultan-smart.workers.dev/?ID=radio_rtrs
+#EXTINF:-1 tvg-id="radio_zenica" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_zenica.png" group-title="ZipZAP",Radio Zenica
+http://zipzap.sultan-smart.workers.dev/?ID=radio_zenica
+#EXTINF:-1 tvg-id="radio_glas_drine" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_glas_drine.png" group-title="ZipZAP",Radio Glas Drine
+http://zipzap.sultan-smart.workers.dev/?ID=radio_glas_drine
+#EXTINF:-1 tvg-id="radio_pink" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_pink.png" group-title="ZipZAP",Radio Pink
+http://zipzap.sultan-smart.workers.dev/?ID=radio_pink
+#EXTINF:-1 tvg-id="radio_banovina" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_banovina.png" group-title="ZipZAP",Radio Banovina
+http://zipzap.sultan-smart.workers.dev/?ID=radio_banovina
+#EXTINF:-1 tvg-id="radio_rtv_puls" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_rtv_puls.png" group-title="ZipZAP",Radio RTV Puls
+http://zipzap.sultan-smart.workers.dev/?ID=radio_rtv_puls
+#EXTINF:-1 tvg-id="radio_hr1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_hr1.png" group-title="ZipZAP",Radio HR1
+http://zipzap.sultan-smart.workers.dev/?ID=radio_hr1
+#EXTINF:-1 tvg-id="radio_hr2" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_hr2.png" group-title="ZipZAP",Radio HR2
+http://zipzap.sultan-smart.workers.dev/?ID=radio_hr2
+#EXTINF:-1 tvg-id="radio_hr3" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_hr3.png" group-title="ZipZAP",Radio HR3
+http://zipzap.sultan-smart.workers.dev/?ID=radio_hr3
+#EXTINF:-1 tvg-id="radio_rsg" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_rsg.png" group-title="ZipZAP",Radio Stari Grad
+http://zipzap.sultan-smart.workers.dev/?ID=radio_rsg
+#EXTINF:-1 tvg-id="radio_tk" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_tk.png" group-title="ZipZAP",Radio Tuzlanski kanton
+http://zipzap.sultan-smart.workers.dev/?ID=radio_tk
+#EXTINF:-1 tvg-id="radio_sehara" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_sehara.png" group-title="ZipZAP",Radio Sehara
+http://zipzap.sultan-smart.workers.dev/?ID=radio_sehara
+#EXTINF:-1 tvg-id="radio_carsija" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_carsija.png" group-title="ZipZAP",Radio Čaršija
+http://zipzap.sultan-smart.workers.dev/?ID=radio_carsija
+#EXTINF:-1 tvg-id="radio_lukavac" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_lukavac.png" group-title="ZipZAP",Radio Lukavac
+http://zipzap.sultan-smart.workers.dev/?ID=radio_lukavac
+#EXTINF:-1 tvg-id="radio_vogosca" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_vogosca.png" group-title="ZipZAP",Radio Vogošća
+http://zipzap.sultan-smart.workers.dev/?ID=radio_vogosca
+#EXTINF:-1 tvg-id="radio_kakanj" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_kakanj.png" group-title="ZipZAP",Radio Kakanj
+http://zipzap.sultan-smart.workers.dev/?ID=radio_kakanj
+#EXTINF:-1 tvg-id="radio_bosanski_brod_stream_0t" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_bosanski_brod_stream_0t.png" group-title="ZipZAP",Radio Bosanski Brod
+http://zipzap.sultan-smart.workers.dev/?ID=radio_bosanski_brod_stream_0t
+#EXTINF:-1 tvg-id="radio_dzungla1" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_dzungla1.png" group-title="ZipZAP",Radio Džungla I
+http://zipzap.sultan-smart.workers.dev/?ID=radio_dzungla1
+#EXTINF:-1 tvg-id="radio_dzungla" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_dzungla.png" group-title="ZipZAP",Radio Džungla II
+http://zipzap.sultan-smart.workers.dev/?ID=radio_dzungla
+#EXTINF:-1 tvg-id="radio_dzungla3" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/radio_dzungla3.png" group-title="ZipZAP",Radio Džungla III
+http://zipzap.sultan-smart.workers.dev/?ID=radio_dzungla3
+#EXTINF:-1 tvg-id="b92" tvg-logo="http://static.srv.zipzap-ba.i.mtvreg.com/cache/logos512/b92.png&image2=https://static.srv.zipzap-ba.i.mtvreg.com/img/lock_512x512.png&width2=96" group-title="ZipZAP",B92
+http://zipzap.sultan-smart.workers.dev/?ID=b92
