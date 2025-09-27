@@ -1,0 +1,105 @@
+#EXTM3U
+
+# --- Ulusal Kanallar ---
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-1-tr.png" group-title="Ulusal Kanallar",TRT 1
+https://trt.daioncdn.net/trt-1/master.m3u8?app=tv
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png" group-title="Ulusal Kanallar",STAR TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48851
+#EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-tr.png" group-title="Ulusal Kanallar",ATV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48846
+#EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-tr.png" group-title="Ulusal Kanallar",SHOW TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48848
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv8-tr.png" group-title="Ulusal Kanallar",TV8
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859
+#EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="KANAL 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-7-tr.png" group-title="Ulusal Kanallar",KANAL 7
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48863
+#EXTINF:-1 tvg-id="BeyazTV.tr" tvg-name="BEYAZ TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/beyaz-tv-tr.png" group-title="Ulusal Kanallar",BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
+#EXTINF:-1 tvg-id="360.tr" tvg-name="360" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/360-tr.png" group-title="Ulusal Kanallar",360
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48876
+#EXTINF:-1 tvg-id="teve2.tr" tvg-name="TEVE2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/teve2-tr.png" group-title="Ulusal Kanallar",TEVE2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48870
+#EXTINF:-1 tvg-id="TV4.tr" tvg-name="TV4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv4-tr.png" group-title="Ulusal Kanallar",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
+#EXTINF:-1 tvg-id="TV85.tr" tvg-name="TV8,5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv85-tr.png" group-title="Ulusal Kanallar",TV8,5
+https://tv.arectv3.xyz/live/tv85.m3u8
+
+# --- Haber ---
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-haber-tr.png" group-title="Haber",TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="HaberturkTV.tr" tvg-name="HABERTÜRK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/haberturk-tr.png" group-title="Haber",HABERTÜRK
+https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv_1080p.m3u8
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-name="HALK TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/halk-tv-tr.png" group-title="Haber",HALK TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48888
+#EXTINF:-1 tvg-id="TV100.tr" tvg-name="TV100" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv100-tr.png" group-title="Haber",TV100
+https://tv.ensonhaber.com/tv100/tv100.m3u8
+#EXTINF:-1 tvg-id="KRT.tr" tvg-name="KRT" tvg-logo="https://i.ibb.co/jZShqBM/Krt24v2.png" group-title="Haber",KRT
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48879
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-name="TGRT HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tgrt-haber-tr.png" group-title="Haber",TGRT HABER
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 tvg-id="Tele1.tr" tvg-name="TELE 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tele1-tr.png" group-title="Haber",TELE 1
+https://tele1-live.ercdn.net/tele1/tele1_1080p.m3u8
+#EXTINF:-1 tvg-id="24TV.tr" tvg-name="24 TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/24-tr.png" group-title="Haber",24 TV
+http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8
+
+# --- Yerel Kanallar ---
+#EXTINF:-1 tvg-id="LineTV.tr" tvg-name="Line TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/line-tv-bursa-tr.png" group-title="Yerel Kanallar",Line TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://trgoals1351.xyz/
+https://edge1.socialsmart.tv/linetv/bant1/chunks.m3u8
+#EXTINF:-1 tvg-id="ASTV.tr" tvg-name="AS TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/as-tv-bursa-tr.png" group-title="Yerel Kanallar",AS TV
+https://live.artidijitalmedya.com/artidijital_astv/astv/chunks.m3u8
+
+# --- Sinema/Dizi ---
+#EXTINF:-1 tvg-id="Sinema1001.tr" tvg-name="Sinema 1001" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="Sinema/Dizi",Sinema 1001
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48906
+#EXTINF:-1 tvg-id="SinemaTV.tr" tvg-name="Sinema TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="Sinema/Dizi",Sinema TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48915
+#EXTINF:-1 tvg-id="SinemaTV2.tr" tvg-name="Sinema TV 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-2-tr.png" group-title="Sinema/Dizi",Sinema TV 2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48908
+#EXTINF:-1 tvg-id="SinemaAksiyon.tr" tvg-name="Sinema Aksiyon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-aksiyon-tr.png" group-title="Sinema/Dizi",Sinema Aksiyon
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48909
+#EXTINF:-1 tvg-id="SinemaAksiyon2.tr" tvg-name="Sinema Aksiyon 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-aksiyon-2-tr.png" group-title="Sinema/Dizi",Sinema Aksiyon 2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48910
+#EXTINF:-1 tvg-id="SinemaAile.tr" tvg-name="Sinema Aile" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-aile-tr.png" group-title="Sinema/Dizi",Sinema Aile
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48911
+#EXTINF:-1 tvg-id="SinemaAile2.tr" tvg-name="Sinema Aile 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-aile-2-tr.png" group-title="Sinema/Dizi",Sinema Aile 2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48912
+#EXTINF:-1 tvg-id="SinemaKomedi.tr" tvg-name="Sinema Komedi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-komedi-tr.png" group-title="Sinema/Dizi",Sinema Komedi
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48913
+#EXTINF:-1 tvg-id="SinemaKomedi2.tr" tvg-name="Sinema Komedi 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-komedi-2-tr.png" group-title="Sinema/Dizi",Sinema Komedi 2
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48914
+#EXTINF:-1 tvg-id="FilmScreen.tr" tvg-name="Film Screen" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="Sinema/Dizi",Film Screen
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48916
+#EXTINF:-1 tvg-id="FX.tr" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/sinema-tv-tr.png" group-title="Sinema/Dizi",FX
+#EXTVLCOPT:network-caching=1000
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48875
+
+# --- Belgesel & Yaşam ---
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT BELGESEL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-belgesel-tr.png" group-title="Belgesel & Yaşam",TRT BELGESEL
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48963
+#EXTINF:-1 tvg-id="TLC.tr" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tlc-tr.png" group-title="Belgesel & Yaşam",TLC
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48872
+#EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/dmax-tr.png" group-title="Belgesel & Yaşam",DMAX
+https://dogus.daioncdn.net/dmax/dmax_720p.m3u8?token=NjNuUkdjZVI2RHdTVWdxRGhNQnFCWVZQZW5KYTljMjJxbi9tU2xQVWZobz0=&sid=7j8v4cqrxraa&app=5a02c599-d17e-4982-9b04-090934d51af7&ce=3
+#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-name="Nat Geo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/national-geographic-tr.png" group-title="Belgesel & Yaşam",Nat Geo
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48954
+#EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-name="Nat Geo Wild" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/nat-geo-wild-tr.png" group-title="Belgesel & Yaşam",Nat Geo Wild
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48917
+#EXTINF:-1 tvg-id="BBCEarth.tr" tvg-name="BBC Earth" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/bbc-earth-int.png" group-title="Belgesel & Yaşam",BBC Earth
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48937
+#EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/discovery-channel-int.png" group-title="Belgesel & Yaşam",Discovery Channel
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48952
+#EXTINF:-1 tvg-id="InvestigationDiscovery.tr" tvg-name="Discovery ID" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/investigation-discovery-int.png" group-title="Belgesel & Yaşam",Discovery ID
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48953
+
+# --- Müzik ---
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT MUZIK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-muzik-tr.png" group-title="Müzik",TRT MUZIK
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="Number1.tr" tvg-name="NUMBER1 TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/nr1-tr.png" group-title="Müzik",NUMBER1 TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17cd6360b_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Number1Turk.tr" tvg-name="NUMBER1 DAMAR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/nr1-damar-hd-tr.png" group-title="Müzik",NUMBER1 TURK
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8?md5=api5VtN5dEXl5cvRHMQBNQ&expires=1696713505
+#EXTINF:-1 tvg-id="KralPop.tr" tvg-name="KRAL POP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kral-pop-tr.png" group-title="Müzik",NUMBER1 TURK
+https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+
