@@ -3,12 +3,14 @@
 # --- Ulusal Kanallar ---
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/trt-1-tr.png" group-title="Ulusal Kanallar",TRT 1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=tv
-#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png" group-title="Ulusal Kanallar",STAR TV
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48851
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/atv-tr.png" group-title="Ulusal Kanallar",ATV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48846
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-name="SHOW TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/show-tr.png" group-title="Ulusal Kanallar",SHOW TV
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48848
+#EXTINF:-1 tvg-id="KanalD.tr" tvg-name="Kanal D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-d-tr.png" group-title="Ulusal Kanallar",Kanal D
+https://goldvod.org/tv/vavoo?id=2244069093c6fbea6af4e9
+#EXTINF:-1 tvg-id="StarTV.tr" tvg-name="STAR TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/star-tv-tr.png" group-title="Ulusal Kanallar",STAR TV
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48851
 #EXTINF:-1 tvg-id="TV8.tr" tvg-name="TV8" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/tv8-tr.png" group-title="Ulusal Kanallar",TV8
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48859
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-name="KANAL 7" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/turkey/kanal-7-tr.png" group-title="Ulusal Kanallar",KANAL 7
@@ -107,4 +109,5 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e17c
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunklist_b400000.m3u8?md5=api5VtN5dEXl5cvRHMQBNQ&expires=1696713505
 #EXTINF:-1 tvg-id="KralPop.tr" tvg-name="KRAL POP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kral-pop-tr.png" group-title="Müzik",NUMBER1 TURK
 https://dogus-live.daioncdn.net/kralpoptv/kralpoptv_720p.m3u8
+
 
